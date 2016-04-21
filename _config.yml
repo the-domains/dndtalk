@@ -1,0 +1,28 @@
+name: dndtalk
+favicon: null
+layout_spectrum: 0.8893194412812591
+typography_spectrum: 0.43582273554056883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1069072145037353
+  lightness: 0.5823729929979891
+  saturation: 0.10539580904878676
+  rhythmicContrast: 0.3862130590714514
+purpose: []
