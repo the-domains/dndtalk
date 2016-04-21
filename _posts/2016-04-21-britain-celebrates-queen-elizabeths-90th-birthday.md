@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.voanews.com'
-  name: VOA
-  favicon: 'http://www.voanews.com/img/voa/favicon.ico'
-  domain: www.voanews.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.voanews.com/content/britain-celebrates-queen-elizabeths-90-birthday/3296663.html'
+inLanguage: en
+starred: false
 keywords:
   - queen
   - corbyn
@@ -18,17 +17,20 @@ keywords:
   - prince
   - prime
 description: "Special celebrations are taking place in Britain and the Commonwealth to mark the 90th birthday of Queen Elizabeth II. Royal gun salutes were fired in London, while the Westminster Abbey bells tolled in the queen's honor. British Prime Minister David Cameron and opposition leader Jeremy Corbyn led tributes in the House of Commons to country's longest-serving monarch."
-inLanguage: en
+datePublished: '2016-04-21T18:12:10.850Z'
+dateModified: '2016-04-21T18:09:51.550Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.voanews.com/content/britain-celebrates-queen-elizabeths-90-birthday/3296663.html'
 title: "Britain Celebrates Queen Elizabeth's 90th Birthday"
-datePublished: '2016-04-21T17:42:35.661Z'
-dateModified: '2016-04-21T17:39:57.585Z'
 sourcePath: _posts/2016-04-21-britain-celebrates-queen-elizabeths-90th-birthday.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: VOA
+  domain: www.voanews.com
+  url: 'http://www.voanews.com'
+  favicon: 'http://www.voanews.com/img/voa/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
