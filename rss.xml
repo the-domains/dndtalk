@@ -4,7 +4,7 @@
         <description><![CDATA[dndtalk]]></description>
         <link>http://dndtalk.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 18:58:15 GMT</lastBuildDate>
         <atom:link href="http://dndtalk.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Obama, Gulf Partners Meet on Path Forward to Stabilize Middle East]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.voanews.com/content/obama-gulf-partners-meet-on-path-forward-to-stabilize-middle-east/3295202.html</link>
             <guid isPermaLink="false">05aa0b95-8fa4-4197-8a77-360ceac17e44</guid>
             <pubDate>Thu, 21 Apr 2016 17:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yunuses Allowed To Leave Azerbaijan]]></title>
+            <description><![CDATA[<article><h1>Yunuses Allowed To Leave Azerbaijan</h1><p>Two of Azerbaijan's most prominent human rights defenders, who supporters say have been persecuted and jailed at home for their activist work, have arrived in the Netherlands after the authorities in Baku granted them permission to leave.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa0b8d5112e4fd638d0b8c8c00d4d89b81dc898b.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/azerbaijan-yunus-couple-leave-country/27683955.html</link>
+            <guid isPermaLink="false">bdc25c58-a121-436e-8ad7-6c83e0ad4d08</guid>
+            <pubDate>Thu, 21 Apr 2016 18:57:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rights Watchdog Condemns 'Forcible Return' Of Uzbeks From Russia]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.voanews.com/content/britain-celebrates-queen-elizabeths-90-birthday/3296663.html</link>
             <guid isPermaLink="false">15c95447-c6d7-405d-989f-969547b3b2da</guid>
             <pubDate>Thu, 21 Apr 2016 18:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Sudan Government, Rebels Face Ultimatum]]></title>
-            <description><![CDATA[<article><h1>South Sudan Government, Rebels Face Ultimatum</h1><p>World powers say South Sudan's government and rebels must cooperate and bring rebel leader Riek Machar to the capital by Saturday, or be referred to the U.N. Security Council.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c754305867cd6a138ace8f1cf408834f5c42ab0e.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/south-sudan-machar-return/3296781.html</link>
-            <guid isPermaLink="false">ceafcdb7-d319-41a1-8555-270f44185edc</guid>
-            <pubDate>Thu, 21 Apr 2016 17:43:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
