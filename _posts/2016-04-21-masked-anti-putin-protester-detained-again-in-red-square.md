@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - skopje
   - protests
@@ -61,13 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=fbEvhY0juAM'
 title: Masked Anti-Putin Protester Detained Again In Red Square
-datePublished: '2016-04-21T19:05:43.341Z'
-dateModified: '2016-04-21T19:04:50.008Z'
+datePublished: '2016-04-21T19:10:10.755Z'
+dateModified: '2016-04-21T19:09:14.607Z'
 sourcePath: _posts/2016-04-21-masked-anti-putin-protester-detained-again-in-red-square.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
