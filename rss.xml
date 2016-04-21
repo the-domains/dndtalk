@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[dndtalk]]></title>
         <description><![CDATA[dndtalk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dndtalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:40:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 17:42:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dndtalk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Britain Celebrates Queen Elizabeth's 90th Birthday]]></title>
+            <description><![CDATA[<article><h1>Britain Celebrates Queen Elizabeth's 90th Birthday</h1><p>Special celebrations are taking place in Britain and the Commonwealth to mark the 90th birthday of Queen Elizabeth II. Royal gun salutes were fired in London, while the Westminster Abbey bells tolled in the queen's honor. British Prime Minister David Cameron and opposition leader Jeremy Corbyn led tributes in the House of Commons to country's longest-serving monarch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c404034ed994fda3ed6238bf0c9007b1460129d6.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/britain-celebrates-queen-elizabeths-90-birthday/3296663.html</link>
+            <guid isPermaLink="false">15c95447-c6d7-405d-989f-969547b3b2da</guid>
+            <pubDate>Thu, 21 Apr 2016 17:42:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More Charges Promised in US Toxic Water Crisis]]></title>
             <description><![CDATA[<article><h1>More Charges Promised in US Toxic Water Crisis</h1><p>After three government officials in the U.S. state of Michigan were charged with criminal offenses in the city of Flint's toxic water crisis, the question is how far up the ranks of government will anyone be held accountable for the lead poisoning in the city's corrosive water pipes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bab2f5a53d2157df8d45c1a8b7dcdc8fad1040b4.jpg"></article>]]></description>
