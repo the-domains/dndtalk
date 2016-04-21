@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[dndtalk]]></title>
         <description><![CDATA[dndtalk]]></description>
-        <link>https://thegrid.ai/dndtalk/</link>
+        <link>http://dndtalk.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:43:51 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/dndtalk/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 18:12:43 GMT</lastBuildDate>
+        <atom:link href="http://dndtalk.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Obama, Gulf Partners Meet on Path Forward to Stabilize Middle East]]></title>
             <description><![CDATA[<article><h1>Obama, Gulf Partners Meet on Path Forward to Stabilize Middle East</h1><p>U.S. President Barack Obama and Gulf state leaders are meeting in Riyadh on ways they can work more closely to help stabilize the conflict-ridden Middle East region, despite differences on the best way forward. Obama and the six members of the Gulf Cooperation Council (GCC) opened the one-day summit Thursday with a session focusing on the political chaos and fighting in Syria, Yemen, Iraq, and Libya.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3f1e73aed5071c76ac8d2173f3e7960badfbbf0.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/obama-gulf-partners-meet-on-path-forward-to-stabilize-middle-east/3295202.html</link>
             <guid isPermaLink="false">05aa0b95-8fa4-4197-8a77-360ceac17e44</guid>
             <pubDate>Thu, 21 Apr 2016 17:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain Celebrates Queen Elizabeth's 90th Birthday]]></title>
+            <description><![CDATA[<article><h1>Britain Celebrates Queen Elizabeth's 90th Birthday</h1><p>Special celebrations are taking place in Britain and the Commonwealth to mark the 90th birthday of Queen Elizabeth II. Royal gun salutes were fired in London, while the Westminster Abbey bells tolled in the queen's honor. British Prime Minister David Cameron and opposition leader Jeremy Corbyn led tributes in the House of Commons to country's longest-serving monarch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c404034ed994fda3ed6238bf0c9007b1460129d6.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/britain-celebrates-queen-elizabeths-90-birthday/3296663.html</link>
+            <guid isPermaLink="false">15c95447-c6d7-405d-989f-969547b3b2da</guid>
+            <pubDate>Thu, 21 Apr 2016 18:12:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Sudan Government, Rebels Face Ultimatum]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.voanews.com/content/rights-group-north-korea-atrocities-persist-despite-pressure/3295206.html</link>
             <guid isPermaLink="false">0ad90239-ec56-4620-af71-9a79ef057161</guid>
             <pubDate>Thu, 21 Apr 2016 17:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain Celebrates Queen Elizabeth's 90th Birthday]]></title>
-            <description><![CDATA[<article><h1>Britain Celebrates Queen Elizabeth's 90th Birthday</h1><p>Special celebrations are taking place in Britain and the Commonwealth to mark the 90th birthday of Queen Elizabeth II. Royal gun salutes were fired in London, while the Westminster Abbey bells tolled in the queen's honor. British Prime Minister David Cameron and opposition leader Jeremy Corbyn led tributes in the House of Commons to country's longest-serving monarch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c404034ed994fda3ed6238bf0c9007b1460129d6.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/britain-celebrates-queen-elizabeths-90-birthday/3296663.html</link>
-            <guid isPermaLink="false">15c95447-c6d7-405d-989f-969547b3b2da</guid>
-            <pubDate>Thu, 21 Apr 2016 17:42:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
