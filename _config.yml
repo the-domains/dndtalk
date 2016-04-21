@@ -2,6 +2,7 @@ name: dndtalk
 favicon: null
 layout_spectrum: 0.8893194412812591
 typography_spectrum: 0.43582273554056883
+title: dndtalk
 cta:
   domain: null
   bucket: null
