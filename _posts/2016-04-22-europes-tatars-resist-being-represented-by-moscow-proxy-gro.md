@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T17:00:46.483Z'
-dateModified: '2016-04-22T17:00:37.650Z'
+datePublished: '2016-04-22T18:16:13.411Z'
+dateModified: '2016-04-22T17:01:46.554Z'
 title: "Europe's Tatars Resist Being Represented By Moscow Proxy Group"
 author: []
+sourcePath: _posts/2016-04-22-europes-tatars-resist-being-represented-by-moscow-proxy-gro.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-22-europes-tatars-resist-being-represented-by-moscow-proxy-gro.md
-published: true
+starred: true
 url: europes-tatars-resist-being-represented-by-moscow-proxy-gro/index.html
 _type: Article
 
@@ -38,47 +38,31 @@ Over the years, the ATA has received support from various Russia-friendly member
 Most of Europe's Tatars are Volga, or Kazan, Tatars with roots in Russia's Tatarstan. Although they are sympathetic with their ethnic kin from Crimea, the Crimean Tatars, they have a history of generally shunning political positions. This is one reason they are wary of the ATA, which has participated in Moscow-directed activities that promote Russia's narratives.
 
 The ATA is just one part of an assertive effort by the Russian government to develop a network of Kremlin-friendly organizations around the world, but particularly in Central and Western Europe.  
-  
 Speaking to a World Conference of Compatriots in Moscow in November 2015, Foreign Minister Sergei Lavrov said the Russian World initiative is "an unconditional foreign-policy priority for Russia" and praised the "consolidation" of the Russian world and its "democratically functioning" organizations.  
-  
 "The anti-Russian actions of Washington and Brussels, including the introduction of unilateral restrictions, have not impacted our dialogue with these communities, which have duly responded to these developments and voiced their support to Russia," Lavrov said.  
-  
 In addition to such ethnic organizations as the ATA, Lavrov stressed the synergistic role of Moscow's support of Russian-language media abroad, brought together in the Foreign Ministry's World Association of Russian Press (WARP).  
-  
 "It is hard to overestimate the role of media outlets in our cooperation with these communities," Lavrov said. "The work of the WARP Foundation for Cooperation with Russian-Language Media is in particularly high demand."
 
 **Fabricated Story**
 
 The Russian World policy made itself felt dramatically in Germany in January when an obscure Russian group**[came out with the claim][0]**that a 13-year-old girl from a Russian immigrant family had been abducted and raped by asylum-seekers. The story was later proven a fabrication, but only after Russian-state media and Russian-language media in Germany gave it prominent play and thousands of mostly Russian-speaking demonstrators came out into the streets of Berlin.  
-  
 **[Speaking to Bloomberg][1]**, Joerg Forbrig of the German Marshall Fund said the so-called Lisa Affair was an attempt to "weaponize" electoral politics inside the EU and undermine the government of Chancellor Angela Merkel. "The Lisa Affair was a real eye-opener," Forbrig is quoted as saying.
 
 **[A report out this month][2]**by Britain's Chatham House highlights the creation of Kremlin "proxy groups" in Central Europe. "Russian pseudo-NGOs undermine the social cohesion of the neighboring states through the consolidation of pro-Russian forces and ethno-geopolitics; the denigration of national identities; and the promotion of anti-U.S., conservative Orthodox \[Christian\], and Eurasianist values," the report states. "They can also establish alternative discourses to confuse decision-making where it is required, and act as destabilizing forces by uniting paramilitary groups and spreading aggressive propaganda."  
-  
 **[The 2015 report][3]**of Estonia's Internal Security Service emphasizes the Kremlin's "attempts to exploit the Russian diaspora."  
-  
 "Instead of supporting Russian-speaking people, the Kremlin has decided to use the slogan of 'compatriot policy' to instigate segregation and undermine integration," the report says. "To increase its influence, Putin's regime use real and imaginary problems and sensitive topics alongside its soft power."  
-  
 The same report notes Russia's funding "to create new media resources abroad, including in Estonia."
 
 The ATA is an example of the Kremlin's Russian World policy in action, one that was specifically mentioned by Lavrov in his speech to the World Conference of Compatriots, emphasizing that it was created by the Russia-based World Tatar Congress. In 2014 it was registered in Brussels and is headed by an ethnic Tatar living in Lithuania named Flyur Sharipov. In the ATA application, Sharipov presented himself as the head of the Nur Tatar association in Klaipeda, which he listed as a founding organization of the ATA.  
-  
 This prompted the chairman of Nur to write Sharipov a letter in March 2016 -- a copy of which is in RFE/RL's possession -- saying that Nur had no information about the ATA and was never represented there.
 
 **'Stole Our Idea'**
 
 Nonetheless, the ATA is registered with the European Union as representing the Tatar communities of Europe. Such registration opens the door for the ATA to fulfill the 11th point of the resolution adopted this month in Brno.  
-  
 "We will submit our projects in a timely fashion to various foundations of the European Union that provide financial support for the ethnocultural movement," the resolution reads.  
-  
 Judging by the past, those projects are unlikely to have much to do with promoting Tatar culture or language. Speaking at the Brno meeting, Russian Foreign Ministry official Barabanov praised the ATA's activity in projects aimed at emphasizing Moscow's version of the Soviet role in World War II, such as handing out orange-and-black St. George ribbons.  
-  
 The story of the ATA is disappointing to Lithuanian-Tatar activist Jakubauskas. He says Europe's Tatars really could benefit from a continental organization and that Tatar groups from the Baltic states had begun discussing forming one when the ATA came along.  
-  
 "We wanted to create a genuinely European, pro-European organization. Unfortunately, they stole our idea and created this organization instead," he says. "But I emphasize once again -- it is registered in Brussels but financed from \[Russia\]. For us, that is unacceptable."
-
-  
-
 
 [0]: http://www.rferl.org/media/video/germany-russia-rape/27569259.html
 [1]: http://www.bloomberg.com/news/articles/2016-04-20/from-rape-claim-to-brexit-putin-machine-tears-at-europe-s-seams
