@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=cNO384LYCx4'
+hasPage: true
+inNav: true
 inLanguage: en
 keywords:
   - amnesty
@@ -15,9 +14,9 @@ keywords:
   - al-khair
   - human
   - '2015'
-description: ''
-datePublished: '2016-04-22T18:17:22.656Z'
-dateModified: '2016-04-22T18:12:19.967Z'
+description: "In this film, William Nee discusses what it's like doing human rights work in China today, and tells the story of Pu Zhiqiang, one of China's most famous fre..."
+datePublished: '2016-04-22T20:07:29.067Z'
+dateModified: '2016-04-22T18:19:04.281Z'
 author:
   - name: Amnesty International
     url: 'https://www.youtube.com/user/AmnestyInternational'
@@ -70,6 +69,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: true
+url: a-turning-point-for-china/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
