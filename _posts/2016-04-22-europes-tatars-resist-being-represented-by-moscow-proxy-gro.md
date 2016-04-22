@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T19:08:59.703Z'
-dateModified: '2016-04-22T18:16:21.871Z'
+datePublished: '2016-04-22T19:10:24.110Z'
+dateModified: '2016-04-22T19:10:16.557Z'
 title: "Europe's Tatars Resist Being Represented By Moscow Proxy Group"
 author: []
 sourcePath: _posts/2016-04-22-europes-tatars-resist-being-represented-by-moscow-proxy-gro.md
