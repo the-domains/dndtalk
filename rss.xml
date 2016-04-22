@@ -4,8 +4,15 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 20:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 20:08:20 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f088981-1f3c-43c3-b817-dede44af7cca.png" alt="" title="">]]></description>
+            <link>http://newsheadline.ca/subscribe-to-our-mailing-list/index.html</link>
+            <guid isPermaLink="false">52993111-dc58-4eb4-9109-3227681f151b</guid>
+            <pubDate>Fri, 22 Apr 2016 20:08:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Turning Point for China?]]></title>
             <description><![CDATA[<article><h1>A Turning Point for China?</h1><p>In this film, William Nee discusses what it's like doing human rights work in China today, and tells the story of Pu Zhiqiang, one of China's most famous fre...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb97172648de1bb18d75bbcaa10fa52954b0c1cc.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Apple Co-founder Says Company Should Pay More Taxes</h1><p>The co-founder of Apple thinks the technology company should pay more tax. Steve Wozniak, who founded Apple with Steve Jobs and Ronald Wayne in 1976, told the BBC that the company should pay at a 50 percent tax rate. Many of the tech giants, including Amazon and Google, have come under harsh criticism for not paying enough taxes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234089b8c8ce3c51a649dd6bc8db885a78b1245b.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/mht-apple-should-pay-more-taxes-wozniak/3298325.html</link>
             <guid isPermaLink="false">fc91c28e-f84a-440c-9554-743694f43d34</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Incumbent Chadian President Wins Fifth Term Amid Fraud Allegations]]></title>
-            <description><![CDATA[<article><h1>Incumbent Chadian President Wins Fifth Term Amid Fraud Allegations</h1><p>Chadian President Idriss Deby secured his fifth term in office Thursday, beating out more than a dozen opponents in a landslide victory. But opposition leaders are accusing him of voter fraud. Deby won 61.5 percent of the vote in the April 10 election, according to the national election commission, beating the main opposition leader Saleh Kebzabo by nearly 50 percent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71a1a6185610a3202ff5fbdb1a10fbc51ce91aea.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/incumbent-chadian-president-wins-fifth-term-amid-fraud-allegations/3297918.html</link>
-            <guid isPermaLink="false">0c20a626-70ea-459f-8afc-d41bbf0c44ca</guid>
             <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
         </item>
     </channel>
