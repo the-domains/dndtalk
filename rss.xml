@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dndtalk]]></title>
-        <description><![CDATA[dndtalk]]></description>
-        <link>http://dndtalk.ca/</link>
+        <title><![CDATA[News Headline]]></title>
+        <description><![CDATA[News Headline]]></description>
+        <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 15:53:13 GMT</lastBuildDate>
-        <atom:link href="http://dndtalk.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 17:01:05 GMT</lastBuildDate>
+        <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Masked Anti-Putin Protester Detained Again In Red Square]]></title>
             <description><![CDATA[<article><h1>Masked Anti-Putin Protester Detained Again In Red Square</h1><p>Performance artist Roman Roslovtsev returned to Red Square to stage his latest masked protest against Russian President Vladimir Putin and a law on public ga...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e82c12739f3976c86c57ffbd44934fe1b7c42f4.jpg"></article>]]></description>
@@ -19,6 +19,34 @@
             <link>http://www.voanews.com/content/obama-gulf-partners-meet-on-path-forward-to-stabilize-middle-east/3295202.html</link>
             <guid isPermaLink="false">05aa0b95-8fa4-4197-8a77-360ceac17e44</guid>
             <pubDate>Thu, 21 Apr 2016 17:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe's Tatars Resist Being Represented By Moscow Proxy Group]]></title>
+            <description><![CDATA[<article><h1>Europe's Tatars Resist Being Represented By Moscow Proxy Group</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/223e72c35bd2bc40159c5cf04b5a030babf30a1b.jpg"></article>]]></description>
+            <link>http://newsheadline.ca/europes-tatars-resist-being-represented-by-moscow-proxy-gro/index.html</link>
+            <guid isPermaLink="false">8d335b1f-75fe-45a1-b665-800d5ca9147e</guid>
+            <pubDate>Fri, 22 Apr 2016 17:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Republican Candidates Wooing Party Officials]]></title>
+            <description><![CDATA[<article><h1>US Republican Candidates Wooing Party Officials</h1><p>The three U.S. Republican presidential candidates are wooing party officials at an oceanside resort in Florida to try to shape rules that could govern a contested nomination fight at the party's national convention in July.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/901b031042ad1d695173f5f6c609fe56aa163112.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/us-republican-candidates-woo-party-officials/3297130.html</link>
+            <guid isPermaLink="false">34d86f6c-f177-4a9c-8c17-0b1077682a9e</guid>
+            <pubDate>Fri, 22 Apr 2016 15:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obama: Britain Should Stay in EU]]></title>
+            <description><![CDATA[<article><h1>Obama: Britain Should Stay in EU</h1><p>U.S. President Barack Obama has dived into a heated debate over a June 23 referendum in which British voters will decide whether their country will remain in the European Union. In a column published in The Telegraph newspaper moments after Air Force One touched down at Stansted Airport outside London late Thursday, the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edbecfc1ffcde3cf2934c395a5cd8e28b30245d0.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/obama-says-britain-should-stay-in-eu-/3298011.html</link>
+            <guid isPermaLink="false">e37c54f6-2b71-4acc-8b8b-050e16656f2f</guid>
+            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya's President Signs Anti-Doping Bill]]></title>
+            <description><![CDATA[<article><h1>Kenya's President Signs Anti-Doping Bill</h1><p>Kenya's president signed a new anti-doping bill into law Friday. The country risked being banned from the upcoming Rio Summer Olympics amid allegations of widespread use of performance-enhancing drugs by Kenyan athletes. Signing the anti-doping bill Friday, President Uhuru Kenyatta said Kenya is committed to playing by the book.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cd8127244d1be2e7f89a1d73deab30ded5d82df.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/kenya-president-signs-anti-doping-bill/3298238.html</link>
+            <guid isPermaLink="false">1288df27-6ea3-49a2-9568-6ab3976ed933</guid>
+            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One Year Later, Nepalis Reflect on Delayed Response to Massive Quake]]></title>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Somali President: Hard Times Driving Youth to Migrate</h1><p>Somali President Hassan Sheikh Mohamud said lack of opportunity is to blame for the number of young Somalis boarding rickety boats in hopes of reaching Europe. The United Nations refugee agency said Wednesday that up to 500 migrants may have drowned in the Mediterranean Sea when their overcrowded boat capsized and sank earlier this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54d9bcef9fd7d8663fbd221b60bcedb7ecc4bd7b.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/somali-president-hard-times-are-driving-youth-to-migrate/3296815.html</link>
             <guid isPermaLink="false">765c2a4c-6d6b-4773-ac94-ec2433c06e9f</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea Rejects North's Plan to Reunite Defectors]]></title>
-            <description><![CDATA[<article><h1>South Korea Rejects North's Plan to Reunite Defectors</h1><p>North Korea said Friday it has decided to send to Seoul the relatives of a group of defectors it says were kidnapped by the South. Seoul has rejected the move for the face-to-face meeting, saying the twelve women decided on their own to resettle in the South.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03f5e92cce8fc239fb70c5c4db8db465768fd7f5.png"></article>]]></description>
-            <link>http://www.voanews.com/content/south-korea-rejects-north-plan-to-reunite-defectors/3298030.html</link>
-            <guid isPermaLink="false">5e6c10cf-9fed-4e01-9820-c3dbc38daabf</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's Steelmakers Exert Pressure on China to Cut Glut]]></title>
-            <description><![CDATA[<article><h1>World's Steelmakers Exert Pressure on China to Cut Glut</h1><p>Earlier this week, the United States joined the world's major steel-producing nations to call for swift action on reducing global steel output - an oversupply crisis that most advanced economies believe is exacerbated by China's excess capacities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae876c279ec466df1bcc9fb2aab38634075e5fac.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/world-steelmakers-exert-pressure-on-china-to-cut-the-glut/3298086.html</link>
-            <guid isPermaLink="false">fb69296a-1c59-46bf-80d1-4b345bd18f0e</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merkel's Turkey Visit Aims to Soothe Tensions on EU Migrant Deal]]></title>
-            <description><![CDATA[<article><h1>Merkel's Turkey Visit Aims to Soothe Tensions on EU Migrant Deal</h1><p>German Chancellor Angela Merkel will use a visit to Turkey this weekend to try to soothe tensions over a deal meant to stem the flow of migrants to Europe, as questions about its effectiveness and long-term viability mount.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07f71bef9febf78c50a0034f6304db67f738545e.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/merkels-turkey-visit-ais-sothe-tensions-eu-migrant-deal/3298249.html</link>
-            <guid isPermaLink="false">f47e1cc9-5f4e-4770-adca-732cbef0567f</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel Shuts Entrances to West Bank and Gaza Strip for Passover]]></title>
-            <description><![CDATA[<article><h1>Israel Shuts Entrances to West Bank and Gaza Strip for Passover</h1><p>Citing security fears, Israel has announced it will block off all entry points between the country and occupied portions of West Bank and the Gaza Strip for the duration of the Jewish holiday Passover. The Palestinian terrorist group Hamas took credit for a suicide bombing Monday that wounded 20 people in Jerusalem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/271b77be5822f5a67cf9e48af42388d807792b55.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/israel-shuts-entrances-to-west-bank-and-gaza-strip-for-passover/3297946.html</link>
-            <guid isPermaLink="false">c24a154d-d849-4c12-b854-1f1a17bd14dc</guid>
             <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
         </item>
     </channel>
