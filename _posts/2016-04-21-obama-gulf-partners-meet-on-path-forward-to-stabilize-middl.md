@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.voanews.com/content/obama-gulf-partners-meet-on-path-forward-to-stabilize-middle-east/3295202.html'
 inLanguage: en
-starred: true
 keywords:
   - saudi
   - arabia
@@ -17,8 +16,8 @@ keywords:
   - obama
   - terrorism
 description: 'U.S. President Barack Obama and Gulf state leaders are meeting in Riyadh on ways they can work more closely to help stabilize the conflict-ridden Middle East region, despite differences on the best way forward. Obama and the six members of the Gulf Cooperation Council (GCC) opened the one-day summit Thursday with a session focusing on the political chaos and fighting in Syria, Yemen, Iraq, and Libya.'
-datePublished: '2016-04-21T17:43:11.618Z'
-dateModified: '2016-04-21T17:22:32.162Z'
+datePublished: '2016-04-22T20:10:21.757Z'
+dateModified: '2016-04-22T20:10:01.431Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   favicon: 'http://www.voanews.com/img/voa/favicon.ico'
 sourcePath: _posts/2016-04-21-obama-gulf-partners-meet-on-path-forward-to-stabilize-middl.md
 published: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
