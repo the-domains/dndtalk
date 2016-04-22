@@ -4,8 +4,15 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 18:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 18:17:25 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Turning Point for China?]]></title>
+            <description><![CDATA[<article><h1>A Turning Point for China?</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb97172648de1bb18d75bbcaa10fa52954b0c1cc.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=cNO384LYCx4</link>
+            <guid isPermaLink="false">6ae29e10-01a1-48be-87e6-cbcc24d7932c</guid>
+            <pubDate>Fri, 22 Apr 2016 18:17:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Europe's Tatars Resist Being Represented By Moscow Proxy Group]]></title>
             <description><![CDATA[<article><h1>Europe's Tatars Resist Being Represented By Moscow Proxy Group</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/223e72c35bd2bc40159c5cf04b5a030babf30a1b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Incumbent Chadian President Wins Fifth Term Amid Fraud Allegations</h1><p>Chadian President Idriss Deby secured his fifth term in office Thursday, beating out more than a dozen opponents in a landslide victory. But opposition leaders are accusing him of voter fraud. Deby won 61.5 percent of the vote in the April 10 election, according to the national election commission, beating the main opposition leader Saleh Kebzabo by nearly 50 percent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71a1a6185610a3202ff5fbdb1a10fbc51ce91aea.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/incumbent-chadian-president-wins-fifth-term-amid-fraud-allegations/3297918.html</link>
             <guid isPermaLink="false">0c20a626-70ea-459f-8afc-d41bbf0c44ca</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Somali President: Hard Times Driving Youth to Migrate]]></title>
-            <description><![CDATA[<article><h1>Somali President: Hard Times Driving Youth to Migrate</h1><p>Somali President Hassan Sheikh Mohamud said lack of opportunity is to blame for the number of young Somalis boarding rickety boats in hopes of reaching Europe. The United Nations refugee agency said Wednesday that up to 500 migrants may have drowned in the Mediterranean Sea when their overcrowded boat capsized and sank earlier this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54d9bcef9fd7d8663fbd221b60bcedb7ecc4bd7b.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/somali-president-hard-times-are-driving-youth-to-migrate/3296815.html</link>
-            <guid isPermaLink="false">765c2a4c-6d6b-4773-ac94-ec2433c06e9f</guid>
             <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
         </item>
     </channel>
