@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 17:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 17:43:50 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monitor: Syrian Government Airstrikes Kill 23]]></title>
-            <description><![CDATA[<article><h1>Monitor: Syrian Government Airstrikes Kill 23</h1><p>Syrian government airstrikes on two rebel-held areas killed more than 20 people Saturday, according to the Syrian Observatory for Human Rights and local reports. At least 10 people were killed in Aleppo, a day after heavy bombardment by Syrian government planes killed at least 19 people.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98da9e3dd300c71499aaf60ec7370b6a1f6249f5.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/syrian-government-airstrikes/3299673.html</link>
-            <guid isPermaLink="false">44003299-29f2-4956-a27f-b7a2b36d98ca</guid>
-            <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Report: North Korea Fires Ballistic Missile]]></title>
             <description><![CDATA[<article><h1>Report: North Korea Fires Ballistic Missile</h1><p>South Korean media say North Korea has fired what appears to be a ballistic missile from a submarine toward the sea. The report comes just hours after North Korean newspaper Rodong Sinmun published a statement saying South Korean President Park Geun-Hye should make her "funeral shroud."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4eca6c531310b5e8327ece81ae28aadd5f4a3414.png"></article>]]></description>
             <link>http://www.voanews.com/content/north-korea-submarine-missile/3299535.html</link>
@@ -75,6 +68,13 @@
             <link>http://www.voanews.com/content/obama-gulf-partners-meet-on-path-forward-to-stabilize-middle-east/3295202.html</link>
             <guid isPermaLink="false">05aa0b95-8fa4-4197-8a77-360ceac17e44</guid>
             <pubDate>Fri, 22 Apr 2016 20:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Republican Candidates Wooing Party Officials]]></title>
+            <description><![CDATA[<article><h1>US Republican Candidates Wooing Party Officials</h1><p>The three U.S. Republican presidential candidates are wooing party officials at an oceanside resort in Florida to try to shape rules that could govern a contested nomination fight at the party's national convention in July.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/901b031042ad1d695173f5f6c609fe56aa163112.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/us-republican-candidates-woo-party-officials/3297130.html</link>
+            <guid isPermaLink="false">34d86f6c-f177-4a9c-8c17-0b1077682a9e</guid>
+            <pubDate>Fri, 22 Apr 2016 15:52:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
