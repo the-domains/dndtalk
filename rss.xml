@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 17:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 17:43:51 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -35,10 +35,24 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Islamic State Claims Capture of Syrian Pilot]]></title>
+            <description><![CDATA[<article><h1>Islamic State Claims Capture of Syrian Pilot</h1><p>The Islamic State terrorist group has captured the pilot of a Syrian warplane that crashed southeast of Damascus on Friday, a news agency affiliated with the militant group said. "The pilot, called Azzam Eid, from Hama, was captured after he fell by parachute near the site where his plane crashed east of Damascus," the Aamaq agency said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a83d87db8f5db0c6077dcbee1d5ad0d60f2e9a7.png"></article>]]></description>
+            <link>http://www.voanews.com/content/islamic-state-claims-capture-syrian-pilot/3299453.html</link>
+            <guid isPermaLink="false">9eba9fb0-47eb-4ee4-8073-b3b810c42ddc</guid>
+            <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US to Buy Iranian Heavy Water as Part of Nuclear Deal]]></title>
             <description><![CDATA[<article><h1>US to Buy Iranian Heavy Water as Part of Nuclear Deal</h1><p>The United States is purchasing 32 tons of a key component in the development of atomic weapons from Iran, in a bid to help Tehran implement provisions in the landmark nuclear deal. The U.S. departments of energy and state confirmed Friday the purchase of heavy water, which can be used to produce weapons-grade plutonium.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aae22858610e3e743520061ec77c23870df64c3e.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/us-buy-iranian-heavy-water-nuclear-deal/3298809.html</link>
             <guid isPermaLink="false">26c43328-012f-4ebc-9744-0ce5c4f043c8</guid>
+            <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monitor: Syrian Government Airstrikes Kill 23]]></title>
+            <description><![CDATA[<article><h1>Monitor: Syrian Government Airstrikes Kill 23</h1><p>Syrian government airstrikes on two rebel-held areas killed more than 20 people Saturday, according to the Syrian Observatory for Human Rights and local reports. At least 10 people were killed in Aleppo, a day after heavy bombardment by Syrian government planes killed at least 19 people.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98da9e3dd300c71499aaf60ec7370b6a1f6249f5.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/syrian-government-airstrikes/3299673.html</link>
+            <guid isPermaLink="false">44003299-29f2-4956-a27f-b7a2b36d98ca</guid>
             <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://www.voanews.com/content/obama-gulf-partners-meet-on-path-forward-to-stabilize-middle-east/3295202.html</link>
             <guid isPermaLink="false">05aa0b95-8fa4-4197-8a77-360ceac17e44</guid>
             <pubDate>Fri, 22 Apr 2016 20:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Republican Candidates Wooing Party Officials]]></title>
-            <description><![CDATA[<article><h1>US Republican Candidates Wooing Party Officials</h1><p>The three U.S. Republican presidential candidates are wooing party officials at an oceanside resort in Florida to try to shape rules that could govern a contested nomination fight at the party's national convention in July.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/901b031042ad1d695173f5f6c609fe56aa163112.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/us-republican-candidates-woo-party-officials/3297130.html</link>
-            <guid isPermaLink="false">34d86f6c-f177-4a9c-8c17-0b1077682a9e</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obama: Britain Should Stay in EU]]></title>
-            <description><![CDATA[<article><h1>Obama: Britain Should Stay in EU</h1><p>U.S. President Barack Obama has dived into a heated debate over a June 23 referendum in which British voters will decide whether their country will remain in the European Union. In a column published in The Telegraph newspaper moments after Air Force One touched down at Stansted Airport outside London late Thursday, the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edbecfc1ffcde3cf2934c395a5cd8e28b30245d0.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/obama-says-britain-should-stay-in-eu-/3298011.html</link>
-            <guid isPermaLink="false">e37c54f6-2b71-4acc-8b8b-050e16656f2f</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
