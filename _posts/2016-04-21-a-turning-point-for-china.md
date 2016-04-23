@@ -15,8 +15,8 @@ keywords:
   - human
   - '2015'
 description: "In this film, William Nee discusses what it's like doing human rights work in China today, and tells the story of Pu Zhiqiang, one of China's most famous fre..."
-datePublished: '2016-04-22T20:07:29.067Z'
-dateModified: '2016-04-22T18:19:04.281Z'
+datePublished: '2016-04-23T17:51:41.142Z'
+dateModified: '2016-04-23T17:50:00.091Z'
 author:
   - name: Amnesty International
     url: 'https://www.youtube.com/user/AmnestyInternational'
