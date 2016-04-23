@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 22:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 17:43:08 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=fbEvhY0juAM</link>
             <guid isPermaLink="false">1db4e07f-052e-403f-bebd-b505fc95125a</guid>
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: North Korea Fires Ballistic Missile]]></title>
+            <description><![CDATA[<article><h1>Report: North Korea Fires Ballistic Missile</h1><p>South Korean media say North Korea has fired what appears to be a ballistic missile from a submarine toward the sea. The report comes just hours after North Korean newspaper Rodong Sinmun published a statement saying South Korean President Park Geun-Hye should make her "funeral shroud."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4eca6c531310b5e8327ece81ae28aadd5f4a3414.png"></article>]]></description>
+            <link>http://www.voanews.com/content/north-korea-submarine-missile/3299535.html</link>
+            <guid isPermaLink="false">836234b1-1d74-41d4-b626-92ed1ef9f4c1</guid>
+            <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home - Productions.press]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kenya's President Signs Anti-Doping Bill</h1><p>Kenya's president signed a new anti-doping bill into law Friday. The country risked being banned from the upcoming Rio Summer Olympics amid allegations of widespread use of performance-enhancing drugs by Kenyan athletes. Signing the anti-doping bill Friday, President Uhuru Kenyatta said Kenya is committed to playing by the book.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cd8127244d1be2e7f89a1d73deab30ded5d82df.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/kenya-president-signs-anti-doping-bill/3298238.html</link>
             <guid isPermaLink="false">1288df27-6ea3-49a2-9568-6ab3976ed933</guid>
-            <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One Year Later, Nepalis Reflect on Delayed Response to Massive Quake]]></title>
-            <description><![CDATA[<article><h1>One Year Later, Nepalis Reflect on Delayed Response to Massive Quake</h1><p>Here in the ancient capital of Bhaktapur, ominous signs of last years' quake indicate the enormous amount of recovery work still needed. More than 8,000 people died in the 2015 disaster, leaving hundreds of thousands more in shelters awaiting government relief. But reconstruction has yet to arrive, leaving most of those affected still struggling with their daily lives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ee3bc9c4a787523c25886b5b23d12ffd967dad0.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/nepalis-reflect-on-delayed-response-1-year-after-massive-quake/3297984.html</link>
-            <guid isPermaLink="false">f6581812-7bb9-4fd9-bfab-058e9ffbfcaf</guid>
             <pubDate>Fri, 22 Apr 2016 15:52:19 GMT</pubDate>
         </item>
     </channel>
