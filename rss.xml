@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:52:01 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Turning Point for China?]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=fbEvhY0juAM</link>
             <guid isPermaLink="false">1db4e07f-052e-403f-bebd-b505fc95125a</guid>
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Tells Supporters He'll Continue to 'Rant and Rave']]></title>
+            <description><![CDATA[<article><h1>Trump Tells Supporters He'll Continue to 'Rant and Rave'</h1><p>Republican presidential front-runner Donald Trump has dashed the hopes of GOP leadership, who hoped he would tone down his trademark bluster on the campaign trail and start acting more presidential. "Being presidential is easy," Trump said Saturday at a rally in Bridgeport, Connecticut. "It's much easier than what I have to do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/515e4fde09d6fcae1a28ef397602be95032319ea.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/trump-tells-supporters-continue-rant-rave/3300212.html</link>
+            <guid isPermaLink="false">22fbafb8-a43c-43a6-8168-ac55cde16560</guid>
+            <pubDate>Sun, 24 Apr 2016 17:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Darfur Votes to Keep Five-State System]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.voanews.com/content/south-sudan-machar-return/3299606.html</link>
             <guid isPermaLink="false">b1e4b6a1-b774-4d92-87b3-c367e9cad2ff</guid>
             <pubDate>Sun, 24 Apr 2016 17:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hong Kong Activists Seek Traction With Independence Call]]></title>
-            <description><![CDATA[<article><h1>Hong Kong Activists Seek Traction With Independence Call</h1><p>Several of Hong Kong's young political activists are calling for independence from China and changes to the city's Basic Law, which calls the territory an inalienable part of China. But it is not clear if the calls for independence will gain any traction outside a small group of supporters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d021b009b3f197c4758263b07658a68d3c4d5d3.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/hong-kong-political-independence-basic-law/3298612.html</link>
-            <guid isPermaLink="false">4e8ea473-20b6-43a7-9cef-3dc220e294a9</guid>
-            <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
