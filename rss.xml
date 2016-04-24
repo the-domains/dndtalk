@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:52:00 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Turning Point for China?]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=fbEvhY0juAM</link>
             <guid isPermaLink="false">1db4e07f-052e-403f-bebd-b505fc95125a</guid>
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Darfur Votes to Keep Five-State System]]></title>
+            <description><![CDATA[<article><h1>Darfur Votes to Keep Five-State System</h1><p>Nearly 98 percent of voters in Sudan's western Darfur region have voted against reuniting the five separate states in the war-torn region, according to the electoral commission overseeing the referendum. Darfur referendum commission chief Omar Ali Jamaa said Saturday 3.2 million of Darfur's 3.5 million registered voters cast ballots in the election, which was monitored by international observers including the Arab League and the African Union.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6230c17ce091e9b0697ab59d08b708e3e8dcd574.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/darfur-votes-to-keep-five-state-system/3300266.html</link>
+            <guid isPermaLink="false">114694bc-aacc-4ae9-9dfc-c272d5417d62</guid>
+            <pubDate>Sun, 24 Apr 2016 17:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Papa Wemba, King of Congolese Rumba, Dies at Age 66]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Hong Kong Activists Seek Traction With Independence Call</h1><p>Several of Hong Kong's young political activists are calling for independence from China and changes to the city's Basic Law, which calls the territory an inalienable part of China. But it is not clear if the calls for independence will gain any traction outside a small group of supporters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d021b009b3f197c4758263b07658a68d3c4d5d3.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/hong-kong-political-independence-basic-law/3298612.html</link>
             <guid isPermaLink="false">4e8ea473-20b6-43a7-9cef-3dc220e294a9</guid>
-            <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Activists in Dakar Demand Release of Gambian Opposition Members - Productions.press]]></title>
-            <description><![CDATA[<article><h1>Activists in Dakar Demand Release of Gambian Opposition Members - Productions.press</h1><p>In Dakar, rights activists and members of the Gambian Diaspora marched Friday to demand the unconditional release of dozens of opposition members arrested in Gambia one week ago. The opposition says at least three of its members were killed in detention. Hundreds of marchers in downtown Dakar chanted "Defa doy," "Enough is enough."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83ce52765773b1ebc3c799c976891a6962a8427.jpg"></article>]]></description>
-            <link>https://productions.press/activists-dakar-demand-release-gambian-opposition-members/</link>
-            <guid isPermaLink="false">4695b19b-923a-40b6-bbe1-51854a2944b6</guid>
             <pubDate>Sat, 23 Apr 2016 17:43:05 GMT</pubDate>
         </item>
     </channel>
