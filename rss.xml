@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:52:08 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Turning Point for China?]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=fbEvhY0juAM</link>
             <guid isPermaLink="false">1db4e07f-052e-403f-bebd-b505fc95125a</guid>
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan 'Assures' Afghan Minister Talks with Taliban to Resume in a Month]]></title>
+            <description><![CDATA[<article><h1>Pakistan 'Assures' Afghan Minister Talks with Taliban to Resume in a Month</h1><p>Pakistan has assured neighboring Afghanistan that peace talks with the Taliban "will resume in a month" to find a peaceful end to the Afghan conflict. Taliban-led insurgent violence has spiked in Afghanistan with the onset of spring, prompting fears this year could see record levels of bloodshed across the war-torn country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc2feee3e8c3468c36a16a056c62465fb5fe7ebc.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/pakitan-afghanistan-taliban/3299586.html</link>
+            <guid isPermaLink="false">51b5d8f1-e61f-4cc4-b56e-cd635efdc53e</guid>
+            <pubDate>Sun, 24 Apr 2016 17:51:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former US Ambassador to Kabul Reflects on Missed Opportunities]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Papa Wemba, King of Congolese Rumba, Dies at Age 66</h1><p>Papa Wemba, one of Africa's greatest musicians and known around the world as the king of Congolese rumba, died early Sunday after collapsing on stage at a music festival in the Ivory Coast, officials said. He was 66.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40a922bbc51caa7254add0ff6b60223c667febb4.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/papa-wemba-king-of-congolese-rumba-dies-age-sixty-six/3300393.html</link>
             <guid isPermaLink="false">9915a6f9-29be-43e6-89ac-1adba6a407ea</guid>
-            <pubDate>Sun, 24 Apr 2016 17:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solar Plane Crosses Pacific, Arrives in California]]></title>
-            <description><![CDATA[<article><h1>Solar Plane Crosses Pacific, Arrives in California</h1><p>A solar-powered plane has reached the U.S. Pacific Coast state of California after completing the riskiest leg of its journey around the world - a 56-hour flight over the Pacific Ocean. The flight was dangerous because there were no emergency landing sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af1985484a2cb15dba46bba232b72f8a723c2e37.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/solar-plane/3300228.html</link>
-            <guid isPermaLink="false">0527770a-1853-46aa-a635-042f4e18dc97</guid>
             <pubDate>Sun, 24 Apr 2016 17:51:12 GMT</pubDate>
         </item>
     </channel>
