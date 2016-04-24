@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - chernobyl
   - duration
@@ -61,14 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=vuqXjSEE3hw'
 title: "Guarding Against Chernobyl's Radioactive Forest Fires"
-datePublished: '2016-04-24T19:03:15.343Z'
-dateModified: '2016-04-24T19:02:55.669Z'
-starred: false
+datePublished: '2016-04-24T19:15:04.988Z'
+dateModified: '2016-04-24T19:03:18.888Z'
 sourcePath: _posts/2016-04-24-guarding-against-chernobyls-radioactive-forest-fires.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
