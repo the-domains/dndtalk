@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:52:06 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Turning Point for China?]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=fbEvhY0juAM</link>
             <guid isPermaLink="false">1db4e07f-052e-403f-bebd-b505fc95125a</guid>
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former US Ambassador to Kabul Reflects on Missed Opportunities]]></title>
+            <description><![CDATA[<article><h1>Former US Ambassador to Kabul Reflects on Missed Opportunities</h1><p>The former U.S. ambassador to Afghanistan, Zalmay Khalilzad, says one of the biggest problems facing Afghanistan continues to be its poor relationship with its neighbor, Pakistan. Khalilzad told VOA in an interview Friday that "the two countries need each other and they should cooperate."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdc3206b23d48254e4420a65d6df615d3415f146.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/former-us-ambassador-to-kabul-reflects-on-missed-opportunities/3299559.html</link>
+            <guid isPermaLink="false">aad66e1b-ec4c-4f63-8247-8cb36773a8e4</guid>
+            <pubDate>Sun, 24 Apr 2016 17:51:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Military Analysts: N. Korean Submarine Missile Launch a 'Successful Failure']]></title>
@@ -68,13 +75,6 @@
             <link>http://www.voanews.com/content/solar-plane/3300228.html</link>
             <guid isPermaLink="false">0527770a-1853-46aa-a635-042f4e18dc97</guid>
             <pubDate>Sun, 24 Apr 2016 17:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obama: Ground Troops in Syria 'Would Be a Mistake']]></title>
-            <description><![CDATA[<article><h1>Obama: Ground Troops in Syria 'Would Be a Mistake'</h1><p>U.S. President Barack Obama said he would not consider sending ground troops into Syria, and said there needs to be more than just a military effort in order to solve the country's problems. "It would be a mistake for the United States, or Great Britain ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43d7f052004e99d4751e7f6a1e541bf4adb7b39c.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/obama-ground-troops-syria-mistake/3300276.html</link>
-            <guid isPermaLink="false">3ea60254-7468-4489-9c9f-873e5b149afe</guid>
-            <pubDate>Sun, 24 Apr 2016 17:51:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
