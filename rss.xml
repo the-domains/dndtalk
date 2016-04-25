@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:32:40 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="New post: Dating app Bumble just changed for men in a major way https://productions.press/dating-app-bumble-just-changed-for-men-in-a-major-way/ ...pic.twitter.com/ndHnvtUIZm" src="https://pbs.twimg.com/media/Cg6UsOYU4AAcFPz.jpg:large">]]></description>
+            <link>https://twitter.com/journallnews/status/724680078857113600</link>
+            <guid isPermaLink="false">ca5d6991-1b12-4fba-b194-9646de152e5a</guid>
+            <pubDate>Mon, 25 Apr 2016 19:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="New post: This kid spent the London Marathon craftily trolling runners https://productions.press/this-kid-spent-the-london-marathon-craftily-trolling-runners/ ...pic.twitter.com/6ksh7a7tsM" src="https://pbs.twimg.com/media/Cg6UrnmU8AAYOAD.jpg:large">]]></description>
             <link>https://twitter.com/journallnews/status/724680068174237696</link>
             <guid isPermaLink="false">ac4ed5b8-73d4-4250-a01a-22c16876ecba</guid>
@@ -68,13 +75,6 @@
             <link>http://www.voanews.com/content/trump-ridicules-rivals-joint-effort-to-derail-his-presidential-bid/3301531.html</link>
             <guid isPermaLink="false">2022787f-6596-499c-a6de-0bb173cf8ef6</guid>
             <pubDate>Mon, 25 Apr 2016 17:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kasich Ceding Indiana, Cruz 2 States as Joint 'Stop Trump' Bid Gets Serious]]></title>
-            <description><![CDATA[<article><h1>Kasich Ceding Indiana, Cruz 2 States as Joint 'Stop Trump' Bid Gets Serious</h1><p>The effort to prevent billionaire Donald Trump from becoming the Republican Party's nominee for U.S. president took a new step late Sunday as his two chief rivals openly detailed their plan to work against the front-runner in three states.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/892b0281dea4ec1c0c3f7156ba2372d91a779d18.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/kasich-ceding-indiana-cruz-2-states-as-joint-stop-trump-bid-get-serious/3301148.html</link>
-            <guid isPermaLink="false">183a6a9d-fa58-4cb9-bd38-f573d80f7aed</guid>
-            <pubDate>Mon, 25 Apr 2016 17:47:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
