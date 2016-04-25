@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:10:51 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,19 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/journallnews</link>
+            <guid isPermaLink="false">6d2617af-0cc2-42b0-8b45-d7300bc41b20</guid>
+            <pubDate>Mon, 25 Apr 2016 19:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obama Promotes 'Friendly Competition' at German Trade Fair]]></title>
+            <description><![CDATA[<article><h1>Obama Promotes 'Friendly Competition' at German Trade Fair</h1><p>Prior to touring the world's largest industrial technology fair Monday morning in Hannover, Germany, U.S. President Barack Obama touted U.S. innovation and called for more international cooperation. Speaking alongside German Chancellor Angela Merkel at the Hannover Messe, Obama reiterated his support for a landmark free-trade agreement between the two countries and called the corporate competition it would bring about "friendly" and "healthy."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65eacb7e3fa29712213b5e4fc5b55f507cfb1ee9.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/obama-promotes-friendly-competition-at-german-trade-fair/3301181.html</link>
+            <guid isPermaLink="false">d30dcd58-f133-4e1d-9480-6eb5069f940b</guid>
+            <pubDate>Mon, 25 Apr 2016 17:47:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump Ridicules Rivals' Joint Effort to Derail His Presidential Bid]]></title>
             <description><![CDATA[<article><h1>Trump Ridicules Rivals' Joint Effort to Derail His Presidential Bid</h1><p>U.S. billionaire real estate mogul Donald Trump, the front-runner for the Republican presidential nomination, ridiculed his two rivals' joint effort to derail his campaign Monday, calling it a "horrible act of desperation."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b2a7834c1251ab4b44c72d2f2bbeb1652ac11ed.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/trump-ridicules-rivals-joint-effort-to-derail-his-presidential-bid/3301531.html</link>
@@ -61,20 +74,6 @@
             <link>http://www.voanews.com/content/burundi-international-criminal-court/3301330.html</link>
             <guid isPermaLink="false">28965b01-4f0a-456a-b78a-8cd5e050442b</guid>
             <pubDate>Mon, 25 Apr 2016 17:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long-Classified Pages on Foreign 9/11 Support Could be Released Soon]]></title>
-            <description><![CDATA[<article><h1>Long-Classified Pages on Foreign 9/11 Support Could be Released Soon</h1><p>Only a select group of U.S. officials have read the highly classified document. The text has been locked in a secure area of the U.S. Capitol building since a joint congressional committee crafted it in 2002. Bills in both the Senate and House of Representatives and people who helped write it are calling for its release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88c0f94181cded9d49b307d2c22b7fc892859566.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/long-classified-pages-on-foreign-9-11-support-could-be-released-soon/3301200.html</link>
-            <guid isPermaLink="false">718c459a-671a-4d15-89bc-1df2dbbe8950</guid>
-            <pubDate>Mon, 25 Apr 2016 17:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Six African Nations Could be Malaria-free by 2020]]></title>
-            <description><![CDATA[<article><h1>Report: Six African Nations Could be Malaria-free by 2020</h1><p>Within the next four years, six nations in Africa - the region where malaria is most prominent - could be free of the disease, the World Health Organization said in a report published Monday to mark World Malaria Day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/401c9df6dec68968378b4616c0a1584456347540.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/report-six-african-nations-could-be-malaria-free-by-2020/3301183.html</link>
-            <guid isPermaLink="false">2c3e3f5f-4e7a-4544-8fd4-9cecc9acf413</guid>
-            <pubDate>Mon, 25 Apr 2016 17:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
