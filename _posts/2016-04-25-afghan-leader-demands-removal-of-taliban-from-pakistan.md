@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.voanews.com'
-  name: VOA
-  favicon: 'http://www.voanews.com/img/voa/favicon.ico'
-  domain: www.voanews.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.voanews.com/content/afghan-leader-demands-removal-of-taliban-from-pakistan/3301275.html'
+inLanguage: en
 keywords:
   - taliban
   - ghani
@@ -18,18 +16,21 @@ keywords:
   - haqqanis
   - speech
 description: 'Afghan President Ashraf Ghani has demanded neighboring Pakistan evict fugitive Taliban leaders from its soil and hand them over to Kabul for trial. In a hard-hitting speech to a rare joint session of parliament Monday, Ghani said Pakistani leaders promised they would use force against Taliban leaders who refuse to end the war and join Afghan peace talks.'
-inLanguage: en
+datePublished: '2016-04-25T19:24:15.468Z'
+dateModified: '2016-04-25T19:24:08.675Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.voanews.com/content/afghan-leader-demands-removal-of-taliban-from-pakistan/3301275.html'
 title: Afghan Leader Demands Removal of Taliban from Pakistan
-datePublished: '2016-04-25T17:47:00.531Z'
-dateModified: '2016-04-25T17:40:49.716Z'
-starred: false
 sourcePath: _posts/2016-04-25-afghan-leader-demands-removal-of-taliban-from-pakistan.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: VOA
+  domain: www.voanews.com
+  url: 'http://www.voanews.com'
+  favicon: 'http://www.voanews.com/img/voa/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
