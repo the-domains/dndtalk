@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:38:29 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="New post: Egyptians have yet another reason to protest the president https://productions.press/egyptians-have-yet-another-reason-to-protest-the-president/ ...pic.twitter.com/RzdGcYUzrE" src="https://pbs.twimg.com/media/Cg6SS49UoAAItSD.jpg:large">]]></description>
+            <link>https://twitter.com/journallnews/status/724677444750348290</link>
+            <guid isPermaLink="false">6cda73ae-9326-4121-b4be-262b3a159aa3</guid>
+            <pubDate>Mon, 25 Apr 2016 19:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="New post: A day inside one of the world&apos;s most secretive iPhone factories https://productions.press/a-day-inside-one-of-the-worlds-most-secretive-iphone-factories/ ...pic.twitter.com/0bjrcaqLEI" src="https://pbs.twimg.com/media/Cg6SqWZUkAAIhrX.jpg:large">]]></description>
             <link>https://twitter.com/journallnews/status/724677847374123009</link>
             <guid isPermaLink="false">15ee546c-b6f5-47b5-97c5-7970458ad8fd</guid>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/journallnews/status/724680068174237696</link>
             <guid isPermaLink="false">ac4ed5b8-73d4-4250-a01a-22c16876ecba</guid>
             <pubDate>Mon, 25 Apr 2016 19:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan Leader Demands Removal of Taliban from Pakistan]]></title>
-            <description><![CDATA[<article><h1>Afghan Leader Demands Removal of Taliban from Pakistan</h1><p>Afghan President Ashraf Ghani has demanded neighboring Pakistan evict fugitive Taliban leaders from its soil and hand them over to Kabul for trial. In a hard-hitting speech to a rare joint session of parliament Monday, Ghani said Pakistani leaders promised they would use force against Taliban leaders who refuse to end the war and join Afghan peace talks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e449fbca66faad2df3e6dfee5972f20c6ff936d.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/afghan-leader-demands-removal-of-taliban-from-pakistan/3301275.html</link>
-            <guid isPermaLink="false">9c06ac8b-a973-4400-94b8-54b6a43681bf</guid>
-            <pubDate>Mon, 25 Apr 2016 19:24:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
