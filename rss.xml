@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:35:54 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="New post: A day inside one of the world&apos;s most secretive iPhone factories https://productions.press/a-day-inside-one-of-the-worlds-most-secretive-iphone-factories/ ...pic.twitter.com/0bjrcaqLEI" src="https://pbs.twimg.com/media/Cg6SqWZUkAAIhrX.jpg:large">]]></description>
+            <link>https://twitter.com/journallnews/status/724677847374123009</link>
+            <guid isPermaLink="false">15ee546c-b6f5-47b5-97c5-7970458ad8fd</guid>
+            <pubDate>Mon, 25 Apr 2016 19:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="New post: Dating app Bumble just changed for men in a major way https://productions.press/dating-app-bumble-just-changed-for-men-in-a-major-way/ ...pic.twitter.com/ndHnvtUIZm" src="https://pbs.twimg.com/media/Cg6UsOYU4AAcFPz.jpg:large">]]></description>
             <link>https://twitter.com/journallnews/status/724680078857113600</link>
             <guid isPermaLink="false">ca5d6991-1b12-4fba-b194-9646de152e5a</guid>
@@ -68,13 +75,6 @@
             <link>http://www.voanews.com/content/afghan-leader-demands-removal-of-taliban-from-pakistan/3301275.html</link>
             <guid isPermaLink="false">9c06ac8b-a973-4400-94b8-54b6a43681bf</guid>
             <pubDate>Mon, 25 Apr 2016 19:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obama Promotes 'Friendly Competition' at German Trade Fair]]></title>
-            <description><![CDATA[<article><h1>Obama Promotes 'Friendly Competition' at German Trade Fair</h1><p>Prior to touring the world's largest industrial technology fair Monday morning in Hannover, Germany, U.S. President Barack Obama touted U.S. innovation and called for more international cooperation. Speaking alongside German Chancellor Angela Merkel at the Hannover Messe, Obama reiterated his support for a landmark free-trade agreement between the two countries and called the corporate competition it would bring about "friendly" and "healthy."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65eacb7e3fa29712213b5e4fc5b55f507cfb1ee9.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/obama-promotes-friendly-competition-at-german-trade-fair/3301181.html</link>
-            <guid isPermaLink="false">d30dcd58-f133-4e1d-9480-6eb5069f940b</guid>
-            <pubDate>Mon, 25 Apr 2016 17:47:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
