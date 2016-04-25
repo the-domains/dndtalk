@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:32:42 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -50,6 +50,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="New post: A &apos;Star Wars&apos; pop-up restaurant is coming to London https://productions.press/a-star-wars-pop-up-restaurant-is-coming-to-london/ ...pic.twitter.com/spDEZ9yBoz" src="https://pbs.twimg.com/media/Cg6Ur62U8AI4DIX.jpg:large">]]></description>
+            <link>https://twitter.com/journallnews/status/724680073526173696</link>
+            <guid isPermaLink="false">be2fd18f-90fa-427b-a389-c30cd5357844</guid>
+            <pubDate>Mon, 25 Apr 2016 19:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="New post: This kid spent the London Marathon craftily trolling runners https://productions.press/this-kid-spent-the-london-marathon-craftily-trolling-runners/ ...pic.twitter.com/6ksh7a7tsM" src="https://pbs.twimg.com/media/Cg6UrnmU8AAYOAD.jpg:large">]]></description>
             <link>https://twitter.com/journallnews/status/724680068174237696</link>
             <guid isPermaLink="false">ac4ed5b8-73d4-4250-a01a-22c16876ecba</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Obama Promotes 'Friendly Competition' at German Trade Fair</h1><p>Prior to touring the world's largest industrial technology fair Monday morning in Hannover, Germany, U.S. President Barack Obama touted U.S. innovation and called for more international cooperation. Speaking alongside German Chancellor Angela Merkel at the Hannover Messe, Obama reiterated his support for a landmark free-trade agreement between the two countries and called the corporate competition it would bring about "friendly" and "healthy."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65eacb7e3fa29712213b5e4fc5b55f507cfb1ee9.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/obama-promotes-friendly-competition-at-german-trade-fair/3301181.html</link>
             <guid isPermaLink="false">d30dcd58-f133-4e1d-9480-6eb5069f940b</guid>
-            <pubDate>Mon, 25 Apr 2016 17:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Ridicules Rivals' Joint Effort to Derail His Presidential Bid]]></title>
-            <description><![CDATA[<article><h1>Trump Ridicules Rivals' Joint Effort to Derail His Presidential Bid</h1><p>U.S. billionaire real estate mogul Donald Trump, the front-runner for the Republican presidential nomination, ridiculed his two rivals' joint effort to derail his campaign Monday, calling it a "horrible act of desperation."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b2a7834c1251ab4b44c72d2f2bbeb1652ac11ed.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/trump-ridicules-rivals-joint-effort-to-derail-his-presidential-bid/3301531.html</link>
-            <guid isPermaLink="false">2022787f-6596-499c-a6de-0bb173cf8ef6</guid>
             <pubDate>Mon, 25 Apr 2016 17:47:02 GMT</pubDate>
         </item>
     </channel>
