@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 16:34:52 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Army Captain: Al-Shabab Kills 5 at Somali Military Base]]></title>
+            <description><![CDATA[<article><h1>Army Captain: Al-Shabab Kills 5 at Somali Military Base</h1><p>Al-Shabab insurgents attacked a Somali military base on Tuesday and killed five soldiers in two hours of fierce fighting near the northwestern town of Baidoa, a military officer said. "Al-Shabab militants attacked early in the morning. Five soldiers died and 12 others were wounded," captain Aden Nur told Reuters from Baidoa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71fb7ef7426adc58c8e75c708d5a7faa2de161fc.png"></article>]]></description>
+            <link>http://www.voanews.com/content/al-shabab-kills-five-at-somali-military-base/3302855.html</link>
+            <guid isPermaLink="false">eedba95b-4516-4be5-8168-929c0b98afee</guid>
+            <pubDate>Tue, 26 Apr 2016 16:33:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[El Nino Could Cause Famine to Reoccur in Somalia]]></title>
             <description><![CDATA[<article><h1>El Nino Could Cause Famine to Reoccur in Somalia</h1><p>A group of 23 nongovernmental organizations working in Somalia say the country is in danger of falling into famine, as it did in 2010, because of drought and food shortages. The groups known as the Somalia NGO Consortium released its statement Tuesday, saying the shortages are linked to the El Nino weather phenomenon, which has proven to be one of the worst on record.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c1849199f07fde1dd93e0af5d8e299c3973986c.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/el-nino-could-cause-famine-to-reoccur-in-somalia/3302797.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Analysts: Philippine Beheading for Money, Not Religion</h1><p>An insurgency group-turned-kidnap for ransom gang has been highly active in the southern Philippines in recent weeks, with several abductions of foreign nationals and now the beheading of a Canadian hostage. In a joint statement released Tuesday, Philippine military and police vowed "no let-up" in their pursuit of members of the Abu Sayyaf Group (ASG).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d4d5ba3cc823f7591081afdca455fe3dc0850a.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/analysts-says-philippine-beheading-for-money-not-religion/3303016.html</link>
             <guid isPermaLink="false">dbbd2797-2516-48f2-9409-0f8e7e309ad5</guid>
-            <pubDate>Tue, 26 Apr 2016 16:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemeni Forces Take Control of Mukalla]]></title>
-            <description><![CDATA[<article><h1>Yemeni Forces Take Control of Mukalla</h1><p>Security officials in Yemen said they have retaken the southern city of Mukalla, a day after reports that Yemeni fighters killed more than 800 al-Qaida militants in a single offensive. Yemeni forces entered Mukalla late Monday after two days of heavy airstrikes on the coastal town that al-Qaida in the Arabian Peninsula has controlled for the past year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/587ddc6fa2591d3689abe759093760840a62a2e7.png"></article>]]></description>
-            <link>http://www.voanews.com/content/yemeni-forces-take-control-of-mukalla/3302892.html</link>
-            <guid isPermaLink="false">d4f37a18-b13e-407f-8119-f7f9a0895144</guid>
             <pubDate>Tue, 26 Apr 2016 16:33:20 GMT</pubDate>
         </item>
     </channel>
