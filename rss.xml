@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 16:34:16 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iranian Court Sentences Four Journalists to Jail]]></title>
-            <description><![CDATA[<article><h1>Iranian Court Sentences Four Journalists to Jail</h1><p>Four Iranian journalists were sentenced to jail on charges of acting against national security, their lawyers said on Tuesday. The verdicts, ranging from five to 10 years, can be appealed, according to state-run media. Officials said a woman and four men taken into custody "were working in the country's media and social networks."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24aedf4df1120963eb11a196c877e340cb115fef.png"></article>]]></description>
-            <link>http://www.voanews.com/content/iranian-court-sentences-four-journalists-to-jail/3303235.html</link>
-            <guid isPermaLink="false">3eb5c322-ffc8-49b9-b07e-912e6cf53510</guid>
-            <pubDate>Tue, 26 Apr 2016 16:33:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US Senators Urge Substantial Boost in Military Aid for Israel]]></title>
             <description><![CDATA[<article><h1>US Senators Urge Substantial Boost in Military Aid for Israel</h1><p>A group of 83 U.S. senators has called on President Barack Obama to complete a new security agreement with Israel that would include increasing the $3.1 billion the United States now provides in annual military aid. That money is allocated through a 10-year agreement that expires in 2018.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c379e0f069e8689cbe1d5fb97e68cce6554fab8.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/senators-urge-substantial-boost-in-military-aid-for-israel/3302837.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>LGBT Activist Among Victims Hacked to Death in Bangladesh</h1><p>A gay rights activist and his friend have been hacked to death by suspected Islamist militants in an apartment in the Bangladeshi capital of Dhaka. At least five attackers came to Xulhaz Mannan's apartment posing as couriers and attacked him and his friend with sharp weapons. They also injured a security guard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09d92821e40907d458d9d5ae9b5b5dc82a4879c5.jpg"></article>]]></description>
             <link>http://humanrights.watch/lgbt-activist-among-victims-hacked-to-death-in-bangladesh/</link>
             <guid isPermaLink="false">60a11aec-8954-4fe1-a199-ded0f34b890a</guid>
+            <pubDate>Mon, 25 Apr 2016 19:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Human rights are rights inherent to all human beings, whatever our nationality, place of residence, sex, national or ethnic origin, colour, religion, language, or any other status. We are all equally entitled to our human rights without discrimination. These rights are all interrelated, interdependent and indivisible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1239d67ce8bc84dfe63eee6eec2825e5b734bb94.jpg"></article>]]></description>
+            <link>http://humanrights.watch/</link>
+            <guid isPermaLink="false">a48484a3-25a4-49f9-a24c-da5fe17a563a</guid>
             <pubDate>Mon, 25 Apr 2016 19:48:57 GMT</pubDate>
         </item>
     </channel>
