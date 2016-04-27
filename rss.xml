@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 16:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 16:57:11 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paris Attack Suspect Transferred From Belgium to France]]></title>
-            <description><![CDATA[<article><h1>Paris Attack Suspect Transferred From Belgium to France</h1><p>Belgian prosecutors say they have handed over to France terror suspect Salah Abdeslam, who is alleged to be a key player in the November 13 terrorist attacks in Paris that killed 130 people. The Belgian Federal Prosecutor's Office said in a statement Wednesday that Abdeslam was delivered to French authorities earlier in the day, on a March 19 European arrest warrant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13f8586f3ded0f5dde31c087aa812dc21bd271d0.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/paris-attack-suspect-transferred-from-belgium-to-france/3304548.html</link>
-            <guid isPermaLink="false">75b5fb18-6b5c-43ac-98f8-5857c8e7a4b7</guid>
-            <pubDate>Wed, 27 Apr 2016 16:56:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Iraq Army Renews Offensive Toward Mosul Under Heavy Coalition Airstrikes]]></title>
             <description><![CDATA[<article><h1>Iraq Army Renews Offensive Toward Mosul Under Heavy Coalition Airstrikes</h1><p>Iraqi forces renewed their offensive toward the Islamic State stronghold of Mosul on Wednesday, pushing their way into villages on the southeastern outskirts of the city under cover of heavy coalition airstrikes. The offensive had stalled out for several weeks after Iraqi forces met stiff resistance after managing to retake just three out of an original target of eight villages from Islamic State fighters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f39d569387afe2daed0d63fa9d78522487ff1e92.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/iraq-army-renews-offensive-toward-mosul-under-heavy-coalition-airstrikes/3304552.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Top 5 Songs for Week Ending April 30</h1><p>These are the five most popular songs in the Billboard Hot 100 Pop Singles chart, for the week ending April 30, 2016. What's that old saying? "The more things change, the more they stay the same?" That's what we find in this week's lineup.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7151215f850708baffec4eb4ab220a548503c73e.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/top-5-songs-for-week-ending-april-30/3304826.html</link>
             <guid isPermaLink="false">8abc6652-cba9-4389-8fdb-d17dc146d2f4</guid>
+            <pubDate>Wed, 27 Apr 2016 16:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Danes Face Smuggling Charges for Giving Migrants a Lift]]></title>
+            <description><![CDATA[<article><h1>Danes Face Smuggling Charges for Giving Migrants a Lift</h1><p>Already under fire for ordering police to seize jewelry from asylum-seekers, Denmark is seeing its humanitarian credentials once again being questioned as it presses smuggling charges against people who gave migrants a ride to neighboring Sweden. Denmark's public prosecutor's office says 230 people have been charged for helping people transit through the country illegally at the height of Europe's migrant crisis last fall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8c051ef2d5303fc5d806bdaa5e3abbb4e39bf7a.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/denmark-smuggling-migrants/3304615.html</link>
+            <guid isPermaLink="false">7923ea9e-b368-4772-831f-06a8ca7c571f</guid>
             <pubDate>Wed, 27 Apr 2016 16:56:13 GMT</pubDate>
         </item>
     </channel>
