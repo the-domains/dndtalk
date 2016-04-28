@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:12:19 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[5 Arrested in Georgia for Attempted Uranium Sale]]></title>
+            <description><![CDATA[<article><h1>5 Arrested in Georgia for Attempted Uranium Sale</h1><p>Georgia's security service said Thursday that it had detained five Georgian citizens who were trying to sell uranium. A Georgian investigator, Savle Motiashvili, said the group was detained at an apartment in Kobuleti as it was trying to sell the radioactive material. "They were aiming to sell the uranium for $3 million.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b96e493c45468eeb0df62985607b381c34ff1f5.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/georgia-uranium-arrests/3306694.html</link>
+            <guid isPermaLink="false">6eb5ee90-bddb-4132-a2eb-27691f746ae0</guid>
+            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turkey Arrests 12 Linked to Bursa Attack]]></title>
             <description><![CDATA[<article><h1>Turkey Arrests 12 Linked to Bursa Attack</h1><p>Turkey says it has arrested 12 people in connection with Wednesday's bomb attack in the northwestern city of Bursa, in which 13 people were wounded. The state-run Anadolu Agency said police detained 12 people in Bursa and Istanbul as well as two other cities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234777b1f51c7efd10d4210d5ca59744bc8069cf.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/turkey-makes-arrests-linked-to-bursa-attack/3306268.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>One Minute of 'Intense' Exercise May Equal 45 Minutes of Moderate Exercise</h1><p>Saying you do not have time to exercise may no longer be an excuse, according to one researcher. Writing in the journal , researchers from McMaster University in Canada say that just one minute of intense exercise "produces health benefits similar to longer, traditional endurance training."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d082894e1da5a2b31e89d8d5bb3dc3f6b40e8cd8.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/mht-one-minute-exercise-as-good-as-45-minutes/3305326.html</link>
             <guid isPermaLink="false">9dc296fb-a368-47ea-9261-ae765e56b586</guid>
-            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey Sentences Two Journalists Over Cartoon of Prophet Muhammad]]></title>
-            <description><![CDATA[<article><h1>Turkey Sentences Two Journalists Over Cartoon of Prophet Muhammad</h1><p>Turkey sentenced two journalists to two years in prison for blasphemy after reprinting a cartoon of the Prophet Mohammad published by French satirical weekly Charlie Hebdo. A court in Istanbul convicted Cumhuriyet newspapers' columnists Ceyda Karan and Hikmet Cetinkaya Thursday on charges of inciting "public hatred," but acquitted them of "insulting religious values."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8156701f905c5537800fcd74e5bf46da5ddf30c9.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/turkey-sentenced-two-journalists-over-cartoons-of-prophet-muhamad/3306865.html</link>
-            <guid isPermaLink="false">f9c953ae-928f-4f31-9acd-c607e112280b</guid>
             <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
         </item>
     </channel>
