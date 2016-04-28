@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.rferl.org/content/kazakhstan-land-sale-protests-unearth-opposition/27704517.html'
 title: "Land Sales Unearth Kazakhstan's Opposition"
-datePublished: '2016-04-28T18:21:26.316Z'
-dateModified: '2016-04-28T18:15:55.345Z'
+datePublished: '2016-04-28T18:21:45.352Z'
+dateModified: '2016-04-28T18:14:25.378Z'
 starred: false
 sourcePath: _posts/2016-04-28-land-sales-unearth-kazakhstans-opposition.md
 published: true
