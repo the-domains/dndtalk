@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:13:12 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UN Mediator Urges US, Russia to Save Syria Talks]]></title>
-            <description><![CDATA[<article><h1>UN Mediator Urges US, Russia to Save Syria Talks</h1><p>Talks on ending the five-year Syrian conflict have ground to a halt in Geneva, and the United Nations mediator on Thursday appealed to the United States and Russia to help put the peace process on track as violence worsened in Syria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cbde1dc88a15215535373bd976913ba28e63c02.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/un-mediator-urges-us-russia-to-save-syria-talks/3306563.html</link>
-            <guid isPermaLink="false">ffeee9bb-fa1b-44d7-abd5-f384b3650a1e</guid>
-            <pubDate>Thu, 28 Apr 2016 18:13:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Somali, AU Forces Face Resurgent Al-Shabab]]></title>
             <description><![CDATA[<article><h1>Somali, AU Forces Face Resurgent Al-Shabab</h1><p>The Islamic State militant group claimed its first ever attack in Somalia earlier this week, though the claim has not been verified. Meanwhile, al-Shabab militants have stepped up their attacks as Somalia gears up for elections later this year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47347e41b732d567167c190b59eb1588ef7c0a60.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/somalia-al-shabab/3306919.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>China Passes New Law Governing Foreign NGOs</h1><p>China has passed a new, controversial law imposing new rules on foreign non-governmental organizations - NGOs - despite concerns from the West. The measure passed Thursday has not been revealed in detail, but earlier descriptions of the legislation said it would govern such groups as foreign charities, business associations and academic institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4afdaea6ce6ebf8636826310fbde0f557b455651.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/china-passes-new-law-governing-foreign-ngos/3306272.html</link>
             <guid isPermaLink="false">f64df24f-aadb-4875-ab5b-b8b027a3e9d1</guid>
+            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan Outraged About Taliban's Pakistan Visit]]></title>
+            <description><![CDATA[<article><h1>Afghanistan Outraged About Taliban's Pakistan Visit</h1><p>Afghanistan has criticized Pakistan for allowing a Taliban delegation to visit the neighboring country, saying "a terrorist organization" should not have been been allowed to undertake such activities. The objection came a day after the Islamist insurgency confirmed a three-member Taliban delegation traveled to Islamabad from its Qatar-based political office for talks with Pakistani officials on "border-related issues" and "problems" facing Afghan refugees in the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b96ca3e3ea288da379e84fd345278b3a078300f6.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/afghanistan-outraged-about-talibans-pakistan-visit/3306816.html</link>
+            <guid isPermaLink="false">73a54dc6-6de6-40c6-81a5-7934bae0710d</guid>
             <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
         </item>
     </channel>
