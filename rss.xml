@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:21:52 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Could Runoffs Tilt Iran's Balance Of Power?]]></title>
+            <description><![CDATA[<article><h1>Could Runoffs Tilt Iran's Balance Of Power?</h1><p>Iran's fractious political camps clash on April 29 in runoff votes to finalize the makeup of parliament two months after a split result dealt a blow to hard-liners but failed to produce a majority.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/888b27f54dca1ca60a621a7f6f520aed136f0449.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/iran-elections-balance-of-power/27704748.html</link>
+            <guid isPermaLink="false">0753cc9e-ed12-4abb-9fd3-c39cc87af081</guid>
+            <pubDate>Thu, 28 Apr 2016 18:21:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Land Sales Unearth Kazakhstan's Opposition]]></title>
             <description><![CDATA[<article><h1>Land Sales Unearth Kazakhstan's Opposition</h1><p>The crowd parts as the elderly woman in the conservative beige overcoat and white head scarf makes her way to the front, demanding to be heard. "We will never allow them to sell our land!" Ogiza Makhambetova shouts, pumping her raised right arm defiantly. "Let them shoot us!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71c7218212914c90939bbcffd4e5770eb46cf67c.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/kazakhstan-land-sale-protests-unearth-opposition/27704517.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>US House Speaker: Policies, Not Personalities, Will Win Millennial Voters</h1><p>Can millennial voters support Republicans? That was the question House Speaker Paul Ryan tried to answer for a group of several hundred Georgetown University students Wednesday, days after a new Harvard University poll found that millennial voters overwhelmingly reject Republican presidential front-runner Donald Trump and his policies. "Why support Republicans?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c1bdb5779f312983ba412c929ab8f6bf96147c4.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/republican-paul-ryan-town-hall-policies-win-millennial-voters/3306117.html</link>
             <guid isPermaLink="false">9444511a-8e45-4464-989f-0a0a43edbcbb</guid>
-            <pubDate>Thu, 28 Apr 2016 18:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vietnam War Debate Continues 50 Years Later]]></title>
-            <description><![CDATA[<article><h1>Vietnam War Debate Continues 50 Years Later</h1><p>U.S. Secretary of State John Kerry delivered an emotional keynote address at the Vietnam War Summit at the LBJ Presidential Library on the campus of the University of Texas in Austin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cd26e4312671f4c1058492580d6ac28a8c12172.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/vietnam-war-debate-continues-50-years-later/3306202.html</link>
-            <guid isPermaLink="false">6b4f7983-8a84-4585-82ac-de1f71e89036</guid>
             <pubDate>Thu, 28 Apr 2016 18:13:37 GMT</pubDate>
         </item>
     </channel>
