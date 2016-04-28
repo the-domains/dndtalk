@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:12:30 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,20 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Myanmar Monks, Protesters Denounce 'Rohingya' Outside US Embassy]]></title>
+            <description><![CDATA[<article><h1>Myanmar Monks, Protesters Denounce 'Rohingya' Outside US Embassy</h1><p>Hundreds of demonstrators, including Buddhist monks, denounced the United States for its use of the term Rohingya to describe Myanmar's stateless Muslim community during a protest outside of the U.S. embassy in Yangon on Thursday. The Rohingya, most of whom live in apartheid-like conditions, are seen by many Myanmar Buddhists as illegal immigrants from Bangladesh and the term is a divisive topic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2dd07676521eb3d58706744c5a2d6b861c00d09.png"></article>]]></description>
+            <link>http://www.voanews.com/content/myanmar-burma-buddhist-monks-slam/3306740.html</link>
+            <guid isPermaLink="false">a1545056-6feb-4969-9a24-f8f24a83f9a5</guid>
+            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ban Ki-moon Criticizes Increasing European Restrictions on Refugees]]></title>
+            <description><![CDATA[<article><h1>Ban Ki-moon Criticizes Increasing European Restrictions on Refugees</h1><p>U.N. Secretary-General Ban Ki-moon on Thursday told Austria's lower house of parliament that increasing restrictions on migrants will "negatively impact" Europe's commitments to international law. Ban did not single out Austria in his speech to lawmakers in Vienna.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c72f6c9a078643df36ff015d48723a8642f5cd7d.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/ban-ki-moon-critizes-increasing-european-restrictions-on-refugees/3306309.html</link>
+            <guid isPermaLink="false">57290376-9495-414e-a9f9-b9fe22158112</guid>
+            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Seoul: North Korea Appears to Have Failed in Missile Launch Attempt]]></title>
             <description><![CDATA[<article><h1>Seoul: North Korea Appears to Have Failed in Missile Launch Attempt</h1><p>North Korea has apparently test-fired an intermediate-range missile that crashed seconds after takeoff, in what appears to be the second such failure in a matter of weeks. South Korea's Defense Ministry reported the failed launch Thursday. The incident comes just before a high-profile party meeting next week in Pyongyang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e380e5011bef06af2166a7880994781a2e49de3d.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/seoul-north-korea-appears-to-have-failed-in-missile-launch-attempt/3306257.html</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Turkey Arrests 12 Linked to Bursa Attack</h1><p>Turkey says it has arrested 12 people in connection with Wednesday's bomb attack in the northwestern city of Bursa, in which 13 people were wounded. The state-run Anadolu Agency said police detained 12 people in Bursa and Istanbul as well as two other cities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234777b1f51c7efd10d4210d5ca59744bc8069cf.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/turkey-makes-arrests-linked-to-bursa-attack/3306268.html</link>
             <guid isPermaLink="false">19d663d5-9953-4ec7-ad6a-a5cb9bf46ea1</guid>
-            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Volkswagen CEO Lays Out Plan to Focus on Low Emissions Cars]]></title>
-            <description><![CDATA[<article><h1>Volkswagen CEO Lays Out Plan to Focus on Low Emissions Cars</h1><p>Volkswagen's CEO sketched out a wide-ranging transformation of the company on Thursday that will see it focus more on electric vehicles and services like car-sharing as it seeks to get past its scandal over cheating on diesel emissions tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca181467b708f337f648111104e36385b6a8636f.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/volkswagen-ceo-lays-out-plan-to-focus-on-low-emissions-cars/3306298.html</link>
-            <guid isPermaLink="false">b1f90596-8e27-4054-89d4-b543af0c110a</guid>
-            <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia Launches First Rocket From New Cosmodrome]]></title>
-            <description><![CDATA[<article><h1>Russia Launches First Rocket From New Cosmodrome</h1><p>Russia has launched the first rocket from its new cosmodrome, Vostochny, after a one-day delay for technical reasons. Russian President Vladimir Putin traveled to the far-east Russian location for the launch, and congratulated cosmodrome workers after the event - while also scolding them for the delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5c44a9bebc4354fc1879e277649df5a1e848b94.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/russia-launches-first-rocket-from-new-cosmodrome/3306207.html</link>
-            <guid isPermaLink="false">6f8c9c02-cdce-40b9-a6d7-02644bb3a91a</guid>
             <pubDate>Thu, 28 Apr 2016 18:11:10 GMT</pubDate>
         </item>
     </channel>
