@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:22:48 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[U.S. Arrest Awakens Ghosts Of Turkey's Iran-Gold Scandal]]></title>
+            <description><![CDATA[<article><h1>U.S. Arrest Awakens Ghosts Of Turkey's Iran-Gold Scandal</h1><p>Night-time police raids in Istanbul. Reports of shoe boxes stuffed with $4.5 million in cash hidden in the home of a Turkish state bank head, plus a money-counting machine in the bedroom of a government minister's son. And allegations that state funds are being used illegally to buy and funnel gold to Iran to help it evade international sanctions over its nuclear program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7d302182c3dca18abcd327bdf9396bec3023dc4.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/turkey-us-arrest-awakens-ghost-iran-gold-scandal/27704593.html</link>
+            <guid isPermaLink="false">000ad900-2c47-4cc6-b4ca-53da0845e7f0</guid>
+            <pubDate>Thu, 28 Apr 2016 18:21:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Land Sales Unearth Kazakhstan's Opposition]]></title>
             <description><![CDATA[<article><h1>Land Sales Unearth Kazakhstan's Opposition</h1><p>The crowd parts as the elderly woman in the conservative beige overcoat and white head scarf makes her way to the front, demanding to be heard. "We will never allow them to sell our land!" Ogiza Makhambetova shouts, pumping her raised right arm defiantly. "Let them shoot us!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71c7218212914c90939bbcffd4e5770eb46cf67c.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/kazakhstan-land-sale-protests-unearth-opposition/27704517.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Could Runoffs Tilt Iran's Balance Of Power?</h1><p>Iran's fractious political camps clash on April 29 in runoff votes to finalize the makeup of parliament two months after a split result dealt a blow to hard-liners but failed to produce a majority.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/888b27f54dca1ca60a621a7f6f520aed136f0449.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/iran-elections-balance-of-power/27704748.html</link>
             <guid isPermaLink="false">0753cc9e-ed12-4abb-9fd3-c39cc87af081</guid>
-            <pubDate>Thu, 28 Apr 2016 18:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Russia Detains Savchenko's Sister At Ukrainian Border]]></title>
-            <description><![CDATA[<article><h1>Report: Russia Detains Savchenko's Sister At Ukrainian Border</h1><p>Reuters is reporting that Russia has detained Nadia Savchenko's sister at the Ukrainian border after she visited the jailed Ukrainian pilot in prison. Reuters said a Ukrainian diplomat was headed to the Russian border on April 28 to help Vira Savchenko, who is being held by Russian border guards who seized her passport as she attempted to cross the border in a Ukrainian diplomatic car.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/386456eb70537409e954c1171bf01284f4f55b8b.jpg"></article>]]></description>
-            <link>http://www.rferl.org/content/reuters-report-russia-detains-savchenko-sister-vira-at-ukrainian-border/27702835.html</link>
-            <guid isPermaLink="false">145d57f0-6828-4b7b-a37e-2d869a0aaa7b</guid>
             <pubDate>Thu, 28 Apr 2016 18:21:26 GMT</pubDate>
         </item>
     </channel>
