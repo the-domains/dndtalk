@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:58:49 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Serbia And Self-Fulfilling Russian Prophecies]]></title>
+            <description><![CDATA[<article><h1>Serbia And Self-Fulfilling Russian Prophecies</h1><p>The dust has not yet settled on Serbia's April 24 elections. In most European capitals, the clear win by Prime Minister Aleksandar Vucic and his Progressive Party is regarded as a sign that the pro-Western mood is dominant in Serbia. This is partly true, but the reality is more complicated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3e3af4ef8cf1f96cf43ce2f9f0e6e60217a615b.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/serbia-self-fulfilling-russia-prophecies/27707245.html</link>
+            <guid isPermaLink="false">e4769029-601d-4068-808d-b0118b2cd7cf</guid>
+            <pubDate>Fri, 29 Apr 2016 16:58:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kazakh Activists Detained Over Land Privatization Protests]]></title>
             <description><![CDATA[<article><h1>Kazakh Activists Detained Over Land Privatization Protests</h1><p>Police in Almaty detained about a dozen Kazakh activists on April 29, including well-known journalists and rights defenders. Authorities detained the activists as they were preparing to stage a press conference and call for a public meeting about the government's decision to privatize large tracts of state-owned agricultural land.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8831c68fb02d179b24a225d07e061522f95e11b8.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/kazakhstan-land-privatization-protests-activists-detained/27706209.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>US Minorities Link Guns with Other Social Ills</h1><p>African-Americans and Latinos believe fixing the gun violence crisis in the U.S. would also help resolve other societal ills that are plaguing America, new research shows. Research released by Benenson Strategy Group (BSG) found that a reduction in gun violence could help lower America's incarceration rate - the world's highest - and improve relationships between police and citizens in minority communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/395db69c0f1bc26fab7ffb3f1f8337b0b6d80cda.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/us-minorities-link-guns-with-other-social-ills/3308326.html</link>
             <guid isPermaLink="false">bec41e4a-c072-4f09-8557-e4bf5cde07df</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New South Sudan Government Sworn In]]></title>
-            <description><![CDATA[<article><h1>New South Sudan Government Sworn In</h1><p>South Sudan's President Salva Kiir has appointed a new government of national unity, bringing together politicians from opposite sides of the country's civil war. Kiir named 30 ministers, 14 of whom were chosen by rebel leader-turned-Vice President Riek Machar and other political groups. The ministers were sworn in Friday at a ceremony in the capital, Juba.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aa25b5441eaebb82ab6001302ca064e3f48946e.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/new-south-sudan-government-sworn-in/3308258.html</link>
-            <guid isPermaLink="false">2eb069dc-00fb-401d-a371-212dc31fa347</guid>
             <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
         </item>
     </channel>
