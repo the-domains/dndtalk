@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:51:47 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,20 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Syrian Army Planning Offensives on 2 IS Strongholds]]></title>
-            <description><![CDATA[<article><h1>Syrian Army Planning Offensives on 2 IS Strongholds</h1><p>The Syrian army has plans to launch offensive strikes on Deir Ez-Zor and Raqqa - two Islamic State strongholds in the country's northeast - with the help of Russian air forces, Alexei Borodavkin, Russia's ambassador to the United Nations in Geneva said Friday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa2bfc44eb02921cdc04267b0c7935f6c283e9d4.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/syrian-army-planning-offensives-in-is-strongholds/3308085.html</link>
-            <guid isPermaLink="false">082ce76d-8c42-43ef-b635-a62a7ba30792</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Future of Trauma Care May Be in a Backpack]]></title>
-            <description><![CDATA[<article><h1>Future of Trauma Care May Be in a Backpack</h1><p>In battlefield situations, taking even basic medical measurements may be complicated. Proper instruments, the knowledge of how to use them and good decision-making skills are required. It would be great if soldiers had sophisticated, miniaturized medical devices that could easily be used to help an injured person.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cb774d62888c89d9569dbd54ac04b468ffa64c8.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/future-trauma-care-backpack/3307955.html</link>
-            <guid isPermaLink="false">8044b3c6-b5e7-49f2-8f43-814def37a72d</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Speed Kills on South African Roads]]></title>
             <description><![CDATA[<article><h1>Speed Kills on South African Roads</h1><p>Telephones ring and people cough inside a medical center here. The patients are waiting to see Dr. Wayne Korras. Few of his patients are aware of the general practitioner's history. As he examines their bodies, they know nothing about the map of scars spread across his chest and back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f06077e0d8e7d78ce8652b726810b064a1ad3f6d.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/speed-kills-on-south-african-roads/3305455.html</link>
@@ -75,6 +61,20 @@
             <link>http://www.voanews.com/content/alarming-number-cease-fire-violations-eastern-ukraine-russia-rebels/3307957.html</link>
             <guid isPermaLink="false">fc5ff753-bd65-4788-a42f-bce3c29e5c34</guid>
             <pubDate>Fri, 29 Apr 2016 16:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Apple Still Innovate?]]></title>
+            <description><![CDATA[<article><h1>Can Apple Still Innovate?</h1><p>The world's most profitable company became less valuable this week when California-based Apple Inc. reported the first decline in iPhone sales in 13 years. Apple CEO Tim Cook blames the struggling Chinese economy for Apple's weaker earnings, but analysts say other factors may be at play including the increasing saturation in the smartphone market and a shortage of new products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc49ccc384dce48c0b20015926c2916819430aa5.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/can-apple-still-innovate/3308042.html</link>
+            <guid isPermaLink="false">c8db5b4d-4fb1-4d32-acdb-ef430e265728</guid>
+            <pubDate>Fri, 29 Apr 2016 16:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Arrest Awakens Ghosts Of Turkey's Iran-Gold Scandal]]></title>
+            <description><![CDATA[<article><h1>U.S. Arrest Awakens Ghosts Of Turkey's Iran-Gold Scandal</h1><p>Night-time police raids in Istanbul. Reports of shoe boxes stuffed with $4.5 million in cash hidden in the home of a Turkish state bank head, plus a money-counting machine in the bedroom of a government minister's son. And allegations that state funds are being used illegally to buy and funnel gold to Iran to help it evade international sanctions over its nuclear program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7d302182c3dca18abcd327bdf9396bec3023dc4.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/turkey-us-arrest-awakens-ghost-iran-gold-scandal/27704593.html</link>
+            <guid isPermaLink="false">000ad900-2c47-4cc6-b4ca-53da0845e7f0</guid>
+            <pubDate>Thu, 28 Apr 2016 18:21:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
