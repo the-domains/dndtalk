@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:51:20 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Monitors: 'Alarming' Number of Cease-fire Violations in E. Ukraine]]></title>
+            <description><![CDATA[<article><h1>Monitors: 'Alarming' Number of Cease-fire Violations in E. Ukraine</h1><p>Violations of a tense cease-fire in eastern Ukraine between Kyiv and Russian-backed rebels have reached "alarming numbers" not seen in months, international monitors told the U.N. Security Council on Thursday. "Violence in eastern Ukraine is once again reaching a peak," warned Ertugrul Apakan, the chief monitor of the OSCE Special Monitoring Mission to Ukraine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39aabc6c0fcfab0fe64891ad7b80cef65138896a.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/alarming-number-cease-fire-violations-eastern-ukraine-russia-rebels/3307957.html</link>
+            <guid isPermaLink="false">fc5ff753-bd65-4788-a42f-bce3c29e5c34</guid>
+            <pubDate>Fri, 29 Apr 2016 16:50:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can Apple Still Innovate?]]></title>
             <description><![CDATA[<article><h1>Can Apple Still Innovate?</h1><p>The world's most profitable company became less valuable this week when California-based Apple Inc. reported the first decline in iPhone sales in 13 years. Apple CEO Tim Cook blames the struggling Chinese economy for Apple's weaker earnings, but analysts say other factors may be at play including the increasing saturation in the smartphone market and a shortage of new products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc49ccc384dce48c0b20015926c2916819430aa5.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/can-apple-still-innovate/3308042.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Luxury Yacht Of Ex-Kremlin Media Boss Lesin, Found Dead In Washington, Is Sold</h1><p>WASHINGTON -- A luxury motor yacht belonging to Russian President Vladimir Putin's late press minister has been sold to an unnamed buyer nearly six months after the former Kremlin insider was found dead in a Washington hotel room.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674eaee81a4645ea9af731fb55b0f587732e595.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/lesin-russia-yacht-sold-/27704801.html</link>
             <guid isPermaLink="false">124d4d31-1833-4281-8cf8-4e97809461b7</guid>
-            <pubDate>Thu, 28 Apr 2016 18:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Nationalists Attack Event For High-School History Students]]></title>
-            <description><![CDATA[<article><h1>Russian Nationalists Attack Event For High-School History Students</h1><p>Russian nationalists attacked attendees of an awards ceremony for high school history students in Moscow on April 28, spraying them with a green antiseptic liquid and hurling eggs at them for what the activists called a foreign-sponsored attempt to rewrite Russia's history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43c76dbd7a3b5ee9c4c4895a298f68470ce49295.jpg"></article>]]></description>
-            <link>http://www.rferl.org/content/russian-nationalists-attack-event-for-high-school-history-students-ulitskaya/27704871.html</link>
-            <guid isPermaLink="false">69534954-f10a-4357-a1c4-4825a7658e35</guid>
             <pubDate>Thu, 28 Apr 2016 18:21:45 GMT</pubDate>
         </item>
     </channel>
