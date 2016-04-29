@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:51:21 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US Teen Pregnancy Rates Plummet]]></title>
+            <description><![CDATA[<article><h1>US Teen Pregnancy Rates Plummet</h1><p>U.S. teen pregnancy rates have fallen nearly 50 percent among Hispanic and black teens, and the overall teen birth rate has dropped more than 40 percent in the past 10 years. One expert calls the new figures from the Centers for Disease Control, "One of the great success stories of the past two decades."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37d8072137fd648bd1ade10bbb51ba71c0fadf5.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/us-teen-pregnancy-rates-plummet/3308137.html</link>
+            <guid isPermaLink="false">9217c14c-acf1-4628-948c-b45605880e33</guid>
+            <pubDate>Fri, 29 Apr 2016 16:50:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Monitors: 'Alarming' Number of Cease-fire Violations in E. Ukraine]]></title>
             <description><![CDATA[<article><h1>Monitors: 'Alarming' Number of Cease-fire Violations in E. Ukraine</h1><p>Violations of a tense cease-fire in eastern Ukraine between Kyiv and Russian-backed rebels have reached "alarming numbers" not seen in months, international monitors told the U.N. Security Council on Thursday. "Violence in eastern Ukraine is once again reaching a peak," warned Ertugrul Apakan, the chief monitor of the OSCE Special Monitoring Mission to Ukraine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39aabc6c0fcfab0fe64891ad7b80cef65138896a.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/alarming-number-cease-fire-violations-eastern-ukraine-russia-rebels/3307957.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Land Sales Unearth Kazakhstan's Opposition</h1><p>The crowd parts as the elderly woman in the conservative beige overcoat and white head scarf makes her way to the front, demanding to be heard. "We will never allow them to sell our land!" Ogiza Makhambetova shouts, pumping her raised right arm defiantly. "Let them shoot us!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71c7218212914c90939bbcffd4e5770eb46cf67c.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/kazakhstan-land-sale-protests-unearth-opposition/27704517.html</link>
             <guid isPermaLink="false">efdfb061-da72-4dc7-bba4-15857de06fcf</guid>
-            <pubDate>Thu, 28 Apr 2016 18:21:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luxury Yacht Of Ex-Kremlin Media Boss Lesin, Found Dead In Washington, Is Sold]]></title>
-            <description><![CDATA[<article><h1>Luxury Yacht Of Ex-Kremlin Media Boss Lesin, Found Dead In Washington, Is Sold</h1><p>WASHINGTON -- A luxury motor yacht belonging to Russian President Vladimir Putin's late press minister has been sold to an unnamed buyer nearly six months after the former Kremlin insider was found dead in a Washington hotel room.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674eaee81a4645ea9af731fb55b0f587732e595.jpg"></article>]]></description>
-            <link>http://www.rferl.org/content/lesin-russia-yacht-sold-/27704801.html</link>
-            <guid isPermaLink="false">124d4d31-1833-4281-8cf8-4e97809461b7</guid>
             <pubDate>Thu, 28 Apr 2016 18:21:45 GMT</pubDate>
         </item>
     </channel>
