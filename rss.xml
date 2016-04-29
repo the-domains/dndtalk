@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:51:52 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Airstrikes on Aleppo Continue from Both Sides]]></title>
-            <description><![CDATA[<article><h1>Airstrikes on Aleppo Continue from Both Sides</h1><p>Airstrikes continued Friday on Syria's second city, Aleppo, where a clinic was hit one day after a strike destroyed a hospital, civil defense officials said. The clinic, which had been providing treatment for chronic illness and dental services for about five years, was badly damaged. A nurse was among several wounded.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/992e55116e05565e6619b55ca6646b84fab814f3.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/airstrike-on-aleppo-continue-from-both-sides/3308348.html</link>
-            <guid isPermaLink="false">89b838a3-a386-4396-8151-8405ae8cfdec</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[North Korea Sentences Korean-American to 10 Years in Prison]]></title>
             <description><![CDATA[<article><h1>North Korea Sentences Korean-American to 10 Years in Prison</h1><p>Pyongyang has sentenced a Korean-American man to 10 years of hard labor for subversion. A North Korean court handed down the sentence Friday to naturalized U.S. citizen Kim Dong Chul. Kim confessed last month to attempting to steal North Korean military secrets and asked for mercy when he was paraded in front of the media in Pyongyang in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b96bf993aa767fb98e17c86f9c85691f91306e8.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/north-korea-sentences-korean-american-to-10-years-in-prison/3308056.html</link>
@@ -75,6 +68,13 @@
             <link>http://www.voanews.com/content/speed-kills-on-south-african-roads/3305455.html</link>
             <guid isPermaLink="false">3a5e8777-d482-474d-a917-654ca164f986</guid>
             <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Teen Pregnancy Rates Plummet]]></title>
+            <description><![CDATA[<article><h1>US Teen Pregnancy Rates Plummet</h1><p>U.S. teen pregnancy rates have fallen nearly 50 percent among Hispanic and black teens, and the overall teen birth rate has dropped more than 40 percent in the past 10 years. One expert calls the new figures from the Centers for Disease Control, "One of the great success stories of the past two decades."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37d8072137fd648bd1ade10bbb51ba71c0fadf5.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/us-teen-pregnancy-rates-plummet/3308137.html</link>
+            <guid isPermaLink="false">9217c14c-acf1-4628-948c-b45605880e33</guid>
+            <pubDate>Fri, 29 Apr 2016 16:50:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
