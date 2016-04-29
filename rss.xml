@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:59:03 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,10 +42,24 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Crimea Reporter Faces Separatism Rap]]></title>
+            <description><![CDATA[<article><h1>Crimea Reporter Faces Separatism Rap</h1><p>Officials in Russia-annexed Crimea have charged Mykola Semena, a contributor to a news site about Crimea run by Radio Free Europe/Radio Liberty (RFE/RL), with calling for separatism. Semena's lawyer Emil Kuberdinov told RFE/RL on April 29 that Crimea's Moscow-backed Prosecutor-General's Office made the charge against the journalist on April 28.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8122eb34b7d556589927ab208d631430f885c5cb.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/ukraine-crimea-journalist-semena-separatism/27707056.html</link>
+            <guid isPermaLink="false">8df0c4ce-34c9-4b25-a6a4-84bb4932b1ba</guid>
+            <pubDate>Fri, 29 Apr 2016 16:58:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iran Runoff Results Due By May 1]]></title>
             <description><![CDATA[<article><h1>Iran Runoff Results Due By May 1</h1><p>Iranian Interior Minister Abdolreza Rahmani Fazli says results from Iran's second round of parliamentary elections will be announced on May 1. He made the statement on Iranian state television as Iranians went to the polls on April 29. He said that the elections will decide 68 undecided seats in the 290-seat legislature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d37391697fe92a1510d05c14668e8b0f3753290.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/iran-runoff-election-results-may-1/27707349.html</link>
             <guid isPermaLink="false">37a2cf23-f6dd-43b9-b75a-ab514740a9e9</guid>
+            <pubDate>Fri, 29 Apr 2016 16:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain Foreign Secretary Visits Cuba for First Time in Nearly 60 Years]]></title>
+            <description><![CDATA[<article><h1>Britain Foreign Secretary Visits Cuba for First Time in Nearly 60 Years</h1><p>Britain's foreign secretary met with Cuban officials Thursday to discuss trade and tourism ties with the communist country, marking the first visit of its kind since 1959. Upon landing in Cuba late Thursday, Philip Hammond said Britain is ready to strengthen its ties with the small island nation, and signed several cooperation agreements on energy, education and financial services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64787351bac80c8655f17e4cd9bccc292ecd4138.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/britain-foreign-secretary-visits-cuba-for-first-time-in-nearly-60-years/3308063.html</link>
+            <guid isPermaLink="false">79ccb373-70cd-4b6b-8d24-320588850a28</guid>
             <pubDate>Fri, 29 Apr 2016 16:58:04 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://www.rferl.org/content/kazakhstan-land-privatization-protests-activists-detained/27706209.html</link>
             <guid isPermaLink="false">f8476dbb-39b8-4cc1-b513-db7efbb90958</guid>
             <pubDate>Fri, 29 Apr 2016 16:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marine General Picked to Lead US Africa Command]]></title>
-            <description><![CDATA[<article><h1>Marine General Picked to Lead US Africa Command</h1><p>U.S. President Barack Obama has nominated Marine Corps Lieutenant General Thomas Waldhauser to lead AFRICOM, the U.S. military's Africa Command. Defense Secretary Ash Carter called Waldhauser the "perfect pick" to lead AFRICOM. In a statement, Carter cited Waldhauser's leadership, management skills and military experience. In 2001, Waldhauser led some of the first U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c1e417853935cc8b69ab1119315d8b0fc40d45f.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/marine-general-picked-to-lead-us-africa-command/3308428.html</link>
-            <guid isPermaLink="false">3fce557b-e6db-4296-9853-c4e6b48f1198</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Disciplines 16 Over Afghanistan Hospital Bombing]]></title>
-            <description><![CDATA[<article><h1>US Disciplines 16 Over Afghanistan Hospital Bombing</h1><p>The Pentagon has disciplined 16 military personnel, including a two-star general, for their role in last year's mistaken airstrike on a hospital in Afghanistan that killed 42 people. The hospital, run by the medical charity Doctors Without Borders, was attacked by an Air Force AC-130 gunship, one of the most lethal in the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47e55dc0962fbf3484510232b450a0cf9505a6cb.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/us-disciplines-16-over-afghanistan-hospital-bombing/3308010.html</link>
-            <guid isPermaLink="false">eb54e300-2b8d-4bd4-8265-3786b79ca57b</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
