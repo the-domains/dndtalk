@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:51:54 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New South Sudan Government Sworn In]]></title>
-            <description><![CDATA[<article><h1>New South Sudan Government Sworn In</h1><p>South Sudan's President Salva Kiir has appointed a new government of national unity, bringing together politicians from opposite sides of the country's civil war. Kiir named 30 ministers, 14 of whom were chosen by rebel leader-turned-Vice President Riek Machar and other political groups. The ministers were sworn in Friday at a ceremony in the capital, Juba.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aa25b5441eaebb82ab6001302ca064e3f48946e.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/new-south-sudan-government-sworn-in/3308258.html</link>
-            <guid isPermaLink="false">2eb069dc-00fb-401d-a371-212dc31fa347</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Airstrikes on Aleppo Continue from Both Sides]]></title>
             <description><![CDATA[<article><h1>Airstrikes on Aleppo Continue from Both Sides</h1><p>Airstrikes continued Friday on Syria's second city, Aleppo, where a clinic was hit one day after a strike destroyed a hospital, civil defense officials said. The clinic, which had been providing treatment for chronic illness and dental services for about five years, was badly damaged. A nurse was among several wounded.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/992e55116e05565e6619b55ca6646b84fab814f3.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/airstrike-on-aleppo-continue-from-both-sides/3308348.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Future of Trauma Care May Be in a Backpack</h1><p>In battlefield situations, taking even basic medical measurements may be complicated. Proper instruments, the knowledge of how to use them and good decision-making skills are required. It would be great if soldiers had sophisticated, miniaturized medical devices that could easily be used to help an injured person.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cb774d62888c89d9569dbd54ac04b468ffa64c8.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/future-trauma-care-backpack/3307955.html</link>
             <guid isPermaLink="false">8044b3c6-b5e7-49f2-8f43-814def37a72d</guid>
+            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speed Kills on South African Roads]]></title>
+            <description><![CDATA[<article><h1>Speed Kills on South African Roads</h1><p>Telephones ring and people cough inside a medical center here. The patients are waiting to see Dr. Wayne Korras. Few of his patients are aware of the general practitioner's history. As he examines their bodies, they know nothing about the map of scars spread across his chest and back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f06077e0d8e7d78ce8652b726810b064a1ad3f6d.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/speed-kills-on-south-african-roads/3305455.html</link>
+            <guid isPermaLink="false">3a5e8777-d482-474d-a917-654ca164f986</guid>
             <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
         </item>
     </channel>
