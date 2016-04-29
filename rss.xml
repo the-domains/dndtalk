@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:52:22 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US Disciplines 16 Over Afghanistan Hospital Bombing]]></title>
+            <description><![CDATA[<article><h1>US Disciplines 16 Over Afghanistan Hospital Bombing</h1><p>The Pentagon has disciplined 16 military personnel, including a two-star general, for their role in last year's mistaken airstrike on a hospital in Afghanistan that killed 42 people. The hospital, run by the medical charity Doctors Without Borders, was attacked by an Air Force AC-130 gunship, one of the most lethal in the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47e55dc0962fbf3484510232b450a0cf9505a6cb.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/us-disciplines-16-over-afghanistan-hospital-bombing/3308010.html</link>
+            <guid isPermaLink="false">eb54e300-2b8d-4bd4-8265-3786b79ca57b</guid>
+            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Minorities Link Guns with Other Social Ills]]></title>
             <description><![CDATA[<article><h1>US Minorities Link Guns with Other Social Ills</h1><p>African-Americans and Latinos believe fixing the gun violence crisis in the U.S. would also help resolve other societal ills that are plaguing America, new research shows. Research released by Benenson Strategy Group (BSG) found that a reduction in gun violence could help lower America's incarceration rate - the world's highest - and improve relationships between police and citizens in minority communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/395db69c0f1bc26fab7ffb3f1f8337b0b6d80cda.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/us-minorities-link-guns-with-other-social-ills/3308326.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>North Korea Sentences Korean-American to 10 Years in Prison</h1><p>Pyongyang has sentenced a Korean-American man to 10 years of hard labor for subversion. A North Korean court handed down the sentence Friday to naturalized U.S. citizen Kim Dong Chul. Kim confessed last month to attempting to steal North Korean military secrets and asked for mercy when he was paraded in front of the media in Pyongyang in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b96bf993aa767fb98e17c86f9c85691f91306e8.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/north-korea-sentences-korean-american-to-10-years-in-prison/3308056.html</link>
             <guid isPermaLink="false">93b76182-fcdd-4632-8b05-566786d8e57d</guid>
-            <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syrian Army Planning Offensives on 2 IS Strongholds]]></title>
-            <description><![CDATA[<article><h1>Syrian Army Planning Offensives on 2 IS Strongholds</h1><p>The Syrian army has plans to launch offensive strikes on Deir Ez-Zor and Raqqa - two Islamic State strongholds in the country's northeast - with the help of Russian air forces, Alexei Borodavkin, Russia's ambassador to the United Nations in Geneva said Friday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa2bfc44eb02921cdc04267b0c7935f6c283e9d4.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/syrian-army-planning-offensives-in-is-strongholds/3308085.html</link>
-            <guid isPermaLink="false">082ce76d-8c42-43ef-b635-a62a7ba30792</guid>
             <pubDate>Fri, 29 Apr 2016 16:50:39 GMT</pubDate>
         </item>
     </channel>
