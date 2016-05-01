@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 17:13:24 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,20 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tajikistan Bans Russian-Style Last Names]]></title>
+            <description><![CDATA[<article><h1>Tajikistan Bans Russian-Style Last Names</h1><p>A new law went into effect in Tajikistan on April 29 that bans giving newborn babies last names with Russian-style endings. Tajiks often Russify their surnames when the nation was part of the Soviet Union. The move to now ban the practice is part of a drive by the post-Soviet government to establish a more traditional national identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/992b27b45d70e9d3b6f01368e5651b130aa90e8d.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/tajikistan-bans-giving-babies-russian-style-last-names/27708093.html</link>
+            <guid isPermaLink="false">8b010e17-df9c-4bae-b740-4fb513a1f7e2</guid>
+            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kazakhstan Gets Downgraded]]></title>
+            <description><![CDATA[<article><h1>Kazakhstan Gets Downgraded</h1><p>Kazakhstan's credit rating has been downgraded by Fitch Ratings with the agency citing the detrimental effect of lower oil prices on the country's economy. Fitch cut Kazakhstan's credit grade from BBB+ to BBB, the rating company's second-lowest investment grade. It was Kazakhstan's third downgrade since the country's currency sank in January to a record low amid plummeting oil prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f935ee16ef4435f07c3b182e5818882535f07caf.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/kazakhstan-credit-rating-downgraded/27709374.html</link>
+            <guid isPermaLink="false">2cb4b988-9445-4f2e-8859-01ba1c3e68b3</guid>
+            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Too Many Troops Willing To Fire']]></title>
             <description><![CDATA[<article><h1>'Too Many Troops Willing To Fire'</h1><p>Violations of a fragile internationally brokered cease-fire between government forces and Russia-backed separatists in eastern Ukraine are at their highest level in months. Paul Quinn-Judge, a senior adviser to the International Crisis Group who just returned from the demarcation line that separates the two sides, attributes the volatile situation to the numbers and proximity of troops along the line of separation, and their willingness to fire on one another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f88dcdffd98808b934e8ca7928a2e3ae525fb72f.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/interview-in-eastern-ukraine-too-many-troops-willing-to-fire/27708420.html</link>
@@ -61,20 +75,6 @@
             <link>http://www.rferl.org/content/podcast-the-fake-cold-war/27707089.html</link>
             <guid isPermaLink="false">b6e64f01-033e-4607-9767-23ed03930121</guid>
             <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kerry to Geneva in Bid to Bolster Syria Cease-Fire]]></title>
-            <description><![CDATA[<article><h1>Kerry to Geneva in Bid to Bolster Syria Cease-Fire</h1><p>U.S. Secretary of State John Kerry is due late Sunday in Geneva as part of a U.S. bid to reaffirm a U.S.-Russian mediated cease-fire as violence escalates in Syria, especially in its largest city, Aleppo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894c52ee3418ce3aa8207ea25f49177027afd9eb.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/kerry-to-geneva-in-bid-to-bolster-syria-cease-fire/3310561.html</link>
-            <guid isPermaLink="false">63ad3f59-09f7-41ca-a8ee-12eb26dc0ba0</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[33 Rescued Lions Arrive in South Africa in Airlift]]></title>
-            <description><![CDATA[<article><h1>33 Rescued Lions Arrive in South Africa in Airlift</h1><p>The roars of lions filled the cargo section of Johannesburg's OR Tambo International Airport Saturday evening as 33 lions rescued from South American circuses landed in South Africa where they will be released into a bush sanctuary for big cats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fef475390445ed1b234cbf200084602f2f146caa.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/thirty-three-rescued-lions-arrive-n-south-africa-in-airlift/3310537.html</link>
-            <guid isPermaLink="false">4f1063cf-eebe-44da-b9f4-3637cce0c74d</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
