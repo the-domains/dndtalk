@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 17:09:16 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,20 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[California Republicans Mull Choices in Presidential Race]]></title>
-            <description><![CDATA[<article><h1>California Republicans Mull Choices in Presidential Race</h1><p>Republican presidential candidate Ted Cruz, a U.S. senator from Texas, says the California primary election June 7, which usually comes too late to have an impact, will this year decide his party's nominee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b201f6f9db8e62350d9abc72ae77b5620ae1618.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/california-republicans-mull-choices-presidential-race/3310312.html</link>
-            <guid isPermaLink="false">568b42a0-a354-4a54-b39b-1834938a1575</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraq Parliament Collapses, Lawmakers Flee Baghdad]]></title>
-            <description><![CDATA[<article><h1>Iraq Parliament Collapses, Lawmakers Flee Baghdad</h1><p>Baghdad teeters on the edge of political chaos Sunday. The city is in a state of emergency, protesters are occupying parts of the once-secure International Zone (IZ), lawmakers have run away and the military is on high alert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff6f08e0ac201ded9105cadf422f7897f6b43027.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/iraqi-parliament-collapses-lawmakers-flee-baghdad/3310404.html</link>
-            <guid isPermaLink="false">c40a9e38-d857-433f-8aba-338604aa53a5</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[22 Somali Soldiers Killed in Al-Shabab Attack]]></title>
             <description><![CDATA[<article><h1>22 Somali Soldiers Killed in Al-Shabab Attack</h1><p>Militant group al-Shabab attacked and recaptured a town in Somalia's Middle Shabelle region early Sunday morning, killing 22 Somali soldiers, an official told VOA on condition of anonymity. The militants claimed that they had killed more than 32 soldiers including a senior military officer in the town of Runirgood, a day after the town had fallen to government forces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2131f10cc9bfa1b2989b414ee9553f76f9ef7c32.png"></article>]]></description>
             <link>http://www.voanews.com/content/twenty-two-soldiers-killed-in-al-shabab-attack/3310520.html</link>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>In Her World: Living With Autism In Russia</h1><p>At first sight, six-year-old Vera Bondik doesn't seem like an unusual child. She looks just like other children her age. The difference is that she will never make eye contact with you, talk to you, or listen to you. She lives in her own world, which no one else can enter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fed8980254381ea7ff75cbc494940eab415aa088.jpg"></article>]]></description>
             <link>http://www.rferl.org/media/photogallery/autism-russia-parenting/27704618.html</link>
             <guid isPermaLink="false">77dfc421-b451-4c0b-85d0-5b834cbdf96c</guid>
+            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kerry Calls Syria Cease-fire 'Top Priority' at Geneva Peace Talks]]></title>
+            <description><![CDATA[<article><h1>Kerry Calls Syria Cease-fire 'Top Priority' at Geneva Peace Talks</h1><p>U.S. Secretary of State John Kerry will travel to Geneva Sunday for talks on the Syrian situation. Kerry would discuss ongoing efforts to reaffirm a cessation of hostilities throughout Syria with the foreign ministers of Jordan and Saudi Arabia, as well as U.N. envoy for Syria Staffan de Mistura, according to a State Department statement Saturday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da073e1fe85e06a6707583ea8228a4f7ad8ec7e3.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/kerry-calls-syria-cease-fire-top-priority-ahead-of-geneva-talks/3310351.html</link>
+            <guid isPermaLink="false">f8bdd64a-3c66-4499-8f5d-1a59a8ad1de6</guid>
+            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Workers Across Asia Rally for Rights, Higher Wages]]></title>
+            <description><![CDATA[<article><h1>Workers Across Asia Rally for Rights, Higher Wages</h1><p>Workers across Asia called for higher wages and better working conditions Sunday in observation of the international day to honor laborers, while Turkish police and protesters clashed in Istanbul as several dozen people tried to reach the capital's Taksim Square, where festivities were banned. International Workers Day, also known as Labor Day, is celebrated May 1.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35e1696901c5005fc8925cab6f6432a16a16135d.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/workers-across-asia-rally-for-rights-higher-wages/3310380.html</link>
+            <guid isPermaLink="false">23699b67-8424-47c9-9d63-fc727ef061f8</guid>
             <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
         </item>
     </channel>
