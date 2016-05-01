@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 17:13:19 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,13 +42,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tajikistan Bans Russian-Style Last Names]]></title>
-            <description><![CDATA[<article><h1>Tajikistan Bans Russian-Style Last Names</h1><p>A new law went into effect in Tajikistan on April 29 that bans giving newborn babies last names with Russian-style endings. Tajiks often Russify their surnames when the nation was part of the Soviet Union. The move to now ban the practice is part of a drive by the post-Soviet government to establish a more traditional national identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/992b27b45d70e9d3b6f01368e5651b130aa90e8d.jpg"></article>]]></description>
-            <link>http://www.rferl.org/content/tajikistan-bans-giving-babies-russian-style-last-names/27708093.html</link>
-            <guid isPermaLink="false">8b010e17-df9c-4bae-b740-4fb513a1f7e2</guid>
-            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kazakhstan Gets Downgraded]]></title>
             <description><![CDATA[<article><h1>Kazakhstan Gets Downgraded</h1><p>Kazakhstan's credit rating has been downgraded by Fitch Ratings with the agency citing the detrimental effect of lower oil prices on the country's economy. Fitch cut Kazakhstan's credit grade from BBB+ to BBB, the rating company's second-lowest investment grade. It was Kazakhstan's third downgrade since the country's currency sank in January to a record low amid plummeting oil prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f935ee16ef4435f07c3b182e5818882535f07caf.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/kazakhstan-credit-rating-downgraded/27709374.html</link>
@@ -75,6 +68,13 @@
             <link>http://www.rferl.org/content/podcast-the-fake-cold-war/27707089.html</link>
             <guid isPermaLink="false">b6e64f01-033e-4607-9767-23ed03930121</guid>
             <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kerry to Geneva in Bid to Bolster Syria Cease-Fire]]></title>
+            <description><![CDATA[<article><h1>Kerry to Geneva in Bid to Bolster Syria Cease-Fire</h1><p>U.S. Secretary of State John Kerry is due late Sunday in Geneva as part of a U.S. bid to reaffirm a U.S.-Russian mediated cease-fire as violence escalates in Syria, especially in its largest city, Aleppo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894c52ee3418ce3aa8207ea25f49177027afd9eb.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/kerry-to-geneva-in-bid-to-bolster-syria-cease-fire/3310561.html</link>
+            <guid isPermaLink="false">63ad3f59-09f7-41ca-a8ee-12eb26dc0ba0</guid>
+            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
