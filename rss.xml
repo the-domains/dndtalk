@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 17:13:19 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,20 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Too Many Troops Willing To Fire']]></title>
+            <description><![CDATA[<article><h1>'Too Many Troops Willing To Fire'</h1><p>Violations of a fragile internationally brokered cease-fire between government forces and Russia-backed separatists in eastern Ukraine are at their highest level in months. Paul Quinn-Judge, a senior adviser to the International Crisis Group who just returned from the demarcation line that separates the two sides, attributes the volatile situation to the numbers and proximity of troops along the line of separation, and their willingness to fire on one another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f88dcdffd98808b934e8ca7928a2e3ae525fb72f.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/interview-in-eastern-ukraine-too-many-troops-willing-to-fire/27708420.html</link>
+            <guid isPermaLink="false">9b7535ad-5638-416f-832d-254b412d81ce</guid>
+            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Blog To Telegram, Iranian Citizen Journalist Keeps Challenging Regime]]></title>
+            <description><![CDATA[<article><h1>From Blog To Telegram, Iranian Citizen Journalist Keeps Challenging Regime</h1><p>By day, Amir pores over data on nuclear safety at a European research institute in pursuit of his doctorate in neutron imaging. But by night, he becomes a witty, tech-savvy citizen journalist who floods the Persian-language cyberspace with news and information about his native Iran with "a twist of humor."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623b419ea403f75996bac184cac968a0e37df2c1.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/from-blog-to-telegram-iranian-citizen-journalist-keeps-challenging-regime/27709626.html</link>
+            <guid isPermaLink="false">d49e0e60-2b63-4a82-af6c-06159b20eed9</guid>
+            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Podcast: The Fake Cold War]]></title>
             <description><![CDATA[<article><h1>Podcast: The Fake Cold War</h1><p>From buzzing warplanes to trolling submarines to persistent nuclear posturing, Russia's provocative behavior presents a dilemma for the West. Responding in kind to the Kremlin's provocations risks inflating Moscow's importance and giving Vladimir Putin the status he craves. But not responding, and not attaching a cost to these actions, could just encourage more bad behavior.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb35af9877b134819125a6a4353192f60b8dba61.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/podcast-the-fake-cold-war/27707089.html</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>33 Rescued Lions Arrive in South Africa in Airlift</h1><p>The roars of lions filled the cargo section of Johannesburg's OR Tambo International Airport Saturday evening as 33 lions rescued from South American circuses landed in South Africa where they will be released into a bush sanctuary for big cats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fef475390445ed1b234cbf200084602f2f146caa.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/thirty-three-rescued-lions-arrive-n-south-africa-in-airlift/3310537.html</link>
             <guid isPermaLink="false">4f1063cf-eebe-44da-b9f4-3637cce0c74d</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California Republicans Mull Choices in Presidential Race]]></title>
-            <description><![CDATA[<article><h1>California Republicans Mull Choices in Presidential Race</h1><p>Republican presidential candidate Ted Cruz, a U.S. senator from Texas, says the California primary election June 7, which usually comes too late to have an impact, will this year decide his party's nominee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b201f6f9db8e62350d9abc72ae77b5620ae1618.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/california-republicans-mull-choices-presidential-race/3310312.html</link>
-            <guid isPermaLink="false">568b42a0-a354-4a54-b39b-1834938a1575</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraq Parliament Collapses, Lawmakers Flee Baghdad]]></title>
-            <description><![CDATA[<article><h1>Iraq Parliament Collapses, Lawmakers Flee Baghdad</h1><p>Baghdad teeters on the edge of political chaos Sunday. The city is in a state of emergency, protesters are occupying parts of the once-secure International Zone (IZ), lawmakers have run away and the military is on high alert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff6f08e0ac201ded9105cadf422f7897f6b43027.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/iraqi-parliament-collapses-lawmakers-flee-baghdad/3310404.html</link>
-            <guid isPermaLink="false">c40a9e38-d857-433f-8aba-338604aa53a5</guid>
             <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
         </item>
     </channel>
