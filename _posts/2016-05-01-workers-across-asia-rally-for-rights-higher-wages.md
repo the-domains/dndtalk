@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.voanews.com/content/workers-across-asia-rally-for-rights-higher-wages/3310380.html'
 title: 'Workers Across Asia Rally for Rights, Higher Wages'
-datePublished: '2016-05-01T17:08:13.214Z'
-dateModified: '2016-05-01T16:59:59.059Z'
+datePublished: '2016-05-01T17:08:13.562Z'
+dateModified: '2016-05-01T16:58:18.208Z'
 starred: false
 sourcePath: _posts/2016-05-01-workers-across-asia-rally-for-rights-higher-wages.md
 published: true
