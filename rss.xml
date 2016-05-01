@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 17:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 17:12:27 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,20 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[From Blog To Telegram, Iranian Citizen Journalist Keeps Challenging Regime]]></title>
+            <description><![CDATA[<article><h1>From Blog To Telegram, Iranian Citizen Journalist Keeps Challenging Regime</h1><p>By day, Amir pores over data on nuclear safety at a European research institute in pursuit of his doctorate in neutron imaging. But by night, he becomes a witty, tech-savvy citizen journalist who floods the Persian-language cyberspace with news and information about his native Iran with "a twist of humor."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623b419ea403f75996bac184cac968a0e37df2c1.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/from-blog-to-telegram-iranian-citizen-journalist-keeps-challenging-regime/27709626.html</link>
+            <guid isPermaLink="false">d49e0e60-2b63-4a82-af6c-06159b20eed9</guid>
+            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast: The Fake Cold War]]></title>
+            <description><![CDATA[<article><h1>Podcast: The Fake Cold War</h1><p>From buzzing warplanes to trolling submarines to persistent nuclear posturing, Russia's provocative behavior presents a dilemma for the West. Responding in kind to the Kremlin's provocations risks inflating Moscow's importance and giving Vladimir Putin the status he craves. But not responding, and not attaching a cost to these actions, could just encourage more bad behavior.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb35af9877b134819125a6a4353192f60b8dba61.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/podcast-the-fake-cold-war/27707089.html</link>
+            <guid isPermaLink="false">b6e64f01-033e-4607-9767-23ed03930121</guid>
+            <pubDate>Sun, 01 May 2016 17:12:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kerry to Geneva in Bid to Bolster Syria Cease-Fire]]></title>
             <description><![CDATA[<article><h1>Kerry to Geneva in Bid to Bolster Syria Cease-Fire</h1><p>U.S. Secretary of State John Kerry is due late Sunday in Geneva as part of a U.S. bid to reaffirm a U.S.-Russian mediated cease-fire as violence escalates in Syria, especially in its largest city, Aleppo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894c52ee3418ce3aa8207ea25f49177027afd9eb.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/kerry-to-geneva-in-bid-to-bolster-syria-cease-fire/3310561.html</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>California Republicans Mull Choices in Presidential Race</h1><p>Republican presidential candidate Ted Cruz, a U.S. senator from Texas, says the California primary election June 7, which usually comes too late to have an impact, will this year decide his party's nominee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b201f6f9db8e62350d9abc72ae77b5620ae1618.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/california-republicans-mull-choices-presidential-race/3310312.html</link>
             <guid isPermaLink="false">568b42a0-a354-4a54-b39b-1834938a1575</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraq Parliament Collapses, Lawmakers Flee Baghdad]]></title>
-            <description><![CDATA[<article><h1>Iraq Parliament Collapses, Lawmakers Flee Baghdad</h1><p>Baghdad teeters on the edge of political chaos Sunday. The city is in a state of emergency, protesters are occupying parts of the once-secure International Zone (IZ), lawmakers have run away and the military is on high alert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff6f08e0ac201ded9105cadf422f7897f6b43027.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/iraqi-parliament-collapses-lawmakers-flee-baghdad/3310404.html</link>
-            <guid isPermaLink="false">c40a9e38-d857-433f-8aba-338604aa53a5</guid>
-            <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22 Somali Soldiers Killed in Al-Shabab Attack]]></title>
-            <description><![CDATA[<article><h1>22 Somali Soldiers Killed in Al-Shabab Attack</h1><p>Militant group al-Shabab attacked and recaptured a town in Somalia's Middle Shabelle region early Sunday morning, killing 22 Somali soldiers, an official told VOA on condition of anonymity. The militants claimed that they had killed more than 32 soldiers including a senior military officer in the town of Runirgood, a day after the town had fallen to government forces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2131f10cc9bfa1b2989b414ee9553f76f9ef7c32.png"></article>]]></description>
-            <link>http://www.voanews.com/content/twenty-two-soldiers-killed-in-al-shabab-attack/3310520.html</link>
-            <guid isPermaLink="false">90e13e9f-77b9-4b0c-a223-df6ba1fcda86</guid>
             <pubDate>Sun, 01 May 2016 17:08:13 GMT</pubDate>
         </item>
     </channel>
