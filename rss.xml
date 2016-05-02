@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 16:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 16:43:09 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Will Summit Lead to Greater Elephant Protection?]]></title>
+            <description><![CDATA[<article><h1>Will Summit Lead to Greater Elephant Protection?</h1><p>Elephants are iconic symbols of Africa, but the poaching crisis across the continent has put their existence in jeopardy. Between 2010 and 2012 100,000 African elephants were killed. But conservationists are somewhat hopeful of changing the trend after the Giants Club Summit in Kenya, where the presidents of Kenya, Uganda and Gabon pledged support for saving the African elephant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e12b8e597a2675aab883c40a0f16b047413525a5.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/will-summit-lead-to-greater-elephant-protection/3311736.html</link>
+            <guid isPermaLink="false">d3685a1d-9efd-4ddd-a9c4-487118bbda74</guid>
+            <pubDate>Mon, 02 May 2016 16:42:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Violence Increases as Burundi Talks Delayed]]></title>
             <description><![CDATA[<article><h1>Violence Increases as Burundi Talks Delayed</h1><p>There was hope the appointment of a new regional mediator for Burundi, former Tanzanian president Benjamin Mkapa, would jumpstart the peace process; but, talks that were scheduled to start Monday in Arusha have been delayed until later this month. Meantime, arrests, grenade attacks and assassinations continue, and dialogue grows more complicated by the day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2e639635bb42c15b0a3ee518b22f64ed49e7d99.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/violence-increases-as-burundi-talks-delayed/3311652.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>No Celebration in Thailand for World Press Freedom Day</h1><p>Thai journalist Pravit Rojanaphruk was supposed to be in Helsinki now, at the invitation of Finland's government for the World Press Freedom Day celebration. But the kingdom's military junta, which seized power in a bloodless coup two years ago this month, barred the veteran reporter from leaving Thailand to attend the May 3 event, co-hosted by the United Nations' cultural arm, UNESCO.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/862582b7b758b37a686d156ac784208551f67899.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/no-celebration-in-thailand-for-world-press-freedom-day/3311275.html</link>
             <guid isPermaLink="false">f6fc57cc-2b41-48f1-9fac-6f40338471a6</guid>
-            <pubDate>Mon, 02 May 2016 16:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan's Ghani Expedites Executions]]></title>
-            <description><![CDATA[<article><h1>Afghanistan's Ghani Expedites Executions</h1><p>Afghanistan's president is expected to soon sign the execution orders for prisoners who have been convicted on terrorism-related charges. Ashraf Ghani promised to expedite the execution process for insurgents sentenced to death, following the April 19 explosion in Kabul that killed 64 people and wounded an additional 300.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed6b6f290fef8bbb0cda6cd70cd071ed2c90ee95.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/afghanistan-ghani-executions/3311433.html</link>
-            <guid isPermaLink="false">2cde5e7b-9cbb-4cc8-977a-6a286b00d2a9</guid>
             <pubDate>Mon, 02 May 2016 16:42:03 GMT</pubDate>
         </item>
     </channel>
