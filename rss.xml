@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 16:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 16:43:15 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,20 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[First US Cruise Ship in More Than 50 Years Sails to Cuba]]></title>
+            <description><![CDATA[<article><h1>First US Cruise Ship in More Than 50 Years Sails to Cuba</h1><p>Another chapter in revived U.S.-Cuban relations opened Sunday with the first commercial passenger cruise ship to sail to Cuba from the U.S. in more than 50 years. The Adonia of Carnival Cruise Lines' Fathom brand with 700 passengers on board left the port of Miami for a planned docking in Havana Monday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1aae5979ebb26ed67e9230f64b8044731b47e42.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/us-cuba-cruise/3310779.html</link>
+            <guid isPermaLink="false">efed01b8-95db-4eaa-8c82-e9a3a606b516</guid>
+            <pubDate>Mon, 02 May 2016 16:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire Guts Historic Serbian Church In New York]]></title>
+            <description><![CDATA[<article><h1>Fire Guts Historic Serbian Church In New York</h1><p>Fire destroyed a historic Serbian Orthodox cathedral in Manhattan on May 1, just hours after worshippers celebrated Orthodox Easter there. The blaze at the Serbian Orthodox Cathedral of St. Sava began shortly before 7 p.m. The fire completely destroyed the roof of the 160-year-old Gothic Revival style building, and firefighters were still fighting pockets of fire early on May 2.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff6be169429a3ff9920c3bc7f7a55574608bf123.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/serbian-cathedral-manhattan-fire/27710817.html</link>
+            <guid isPermaLink="false">0017bd72-2ef1-4515-8e6b-dcfc1c7247b4</guid>
+            <pubDate>Mon, 02 May 2016 16:42:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CIA's Recounting of Bin Laden Raid Gets Mixed Reaction]]></title>
             <description><![CDATA[<article><h1>CIA's Recounting of Bin Laden Raid Gets Mixed Reaction</h1><p>The United States' ultra-secretive Central Intelligence Agency tweeted the details of an operation that killed a top terrorist leader Sunday, drawing thousands of retweets and likes from apparent supporters while others responded with criticism that ranged from "please don't" to "WTF?" The terrorist was al-Qaida leader Osama bin Laden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b73fe6f3538afd246600d7e511b8952d764e97b1.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/cia-recounting-of-bin-laden-raid-gets-retweets/3311263.html</link>
@@ -61,20 +75,6 @@
             <link>http://www.voanews.com/content/violence-increases-as-burundi-talks-delayed/3311652.html</link>
             <guid isPermaLink="false">dba05c1f-7311-4077-9932-8ec2370c28cf</guid>
             <pubDate>Mon, 02 May 2016 16:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greenpeace: US-EU Trade Deal Would Favor Corporations]]></title>
-            <description><![CDATA[<article><h1>Greenpeace: US-EU Trade Deal Would Favor Corporations</h1><p>The activist group Greenpeace leaked classified documents Monday from the massive trade deal being negotiated by the United States with the European Union, claiming they show corporate interests would be given preference over environmental and consumer safety concerns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f8345cdb1b045e1227dac93261383e9fa32e41a.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/greenpeace-us-eu-trade-deal/3311647.html</link>
-            <guid isPermaLink="false">1d386c36-f358-439b-8f57-c06f7467fc4f</guid>
-            <pubDate>Mon, 02 May 2016 16:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brutal Bangladesh Killings Raise Worries About Secular Traditions]]></title>
-            <description><![CDATA[<article><h1>Brutal Bangladesh Killings Raise Worries About Secular Traditions</h1><p>A series of brutal killings of liberals, academics, bloggers, foreigners and religious minorities in Bangladesh has spread deep fear in the country and raised worrying questions about whether the secular traditions of a moderate Muslim country are under threat from extremist Islamic groups.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c50f0036dabf214b9f772295febcaff73e95a5a.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/brutal-bangladesh-killings-raise-worries-about-secular-traditions/3311509.html</link>
-            <guid isPermaLink="false">7224b7e6-430d-4c9d-b5ed-8d07dcfd524e</guid>
-            <pubDate>Mon, 02 May 2016 16:42:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
