@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 18:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 18:16:21 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -56,13 +56,6 @@
             <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chinese Netizens Mock Trump Over Rape Remarks]]></title>
-            <description><![CDATA[<article><h1>Chinese Netizens Mock Trump Over Rape Remarks</h1><p>The Chinese public has reacted to U.S. presidential contender Donald Trump's latest controversial remarks with bitter sarcasm, one day after the real-estate tycoon compared the American trade deficit with China to rape. Trump on Sunday told a cheering crowd in Fort Wayne, Indiana that "we can't continue to allow China to rape our country," referring to the lopsided trade balance in China's favor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54ed99c21d208932e347a4596c77168d0a940698.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/chinese-netizens-mock-trump-over-rape-remarks/3313028.html</link>
-            <guid isPermaLink="false">7723fae9-71bf-4ea7-88a3-88c48a59f193</guid>
-            <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Huge Fire Adds to Woes for Myanmar's Rohingya Muslims]]></title>
             <description><![CDATA[<article><h1>Huge Fire Adds to Woes for Myanmar's Rohingya Muslims</h1><p>Nearly 450 Rohingya Muslims are homeless after a huge fire burned down several shelters at a camp for internally displaced people Tuesday. About 50 shelters were destroyed at the Baw Du Pa camp located near Sittwe, the capital of the western state of Rakhine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b4616e7ec25ffc9f789f9367806fa2bb32f8033.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/myanmar-rohingya-fire/3313163.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Russia: Aleppo Cease-Fire in Syria Could Come Soon</h1><p>Russian Foreign Minister Sergei Lavrov said Tuesday that a cease-fire could be announced within hours to halt fighting between rebels and government forces in Aleppo, Syria, even as new clashes left at least 14 dead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/964a98407071b867e11f24cfded9866f73940d3c.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/russia-aleppo-ceasefire-in-syria-could-come-soon/3313464.html</link>
             <guid isPermaLink="false">90b675c0-c6cc-4d80-a977-cee42833050e</guid>
+            <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hungary to Hold EU Migrant Quota Referendum by October]]></title>
+            <description><![CDATA[<article><h1>Hungary to Hold EU Migrant Quota Referendum by October</h1><p>Hungary will hold a referendum in September or early October on whether to accept any future European Union quota system for resettling migrants, the prime minister's office said on Tuesday. Prime Minister Viktor Orban has taken an increasingly anti-immigrant stance since the migration crisis escalated last year and opposes a plan, agreed by a majority of EU governments in September, to redistribute 160,000 migrants around the bloc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8054f3490740abcab7489371ccd8972649bf5d02.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/hungary-to-hold-eu-migrant-quota-referendum-by-october/3313535.html</link>
+            <guid isPermaLink="false">b55ab658-34a9-4688-9cdb-43fc14fa8d5d</guid>
             <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
         </item>
     </channel>
