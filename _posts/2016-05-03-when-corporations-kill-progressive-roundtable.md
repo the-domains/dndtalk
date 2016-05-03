@@ -1,14 +1,8 @@
 ---
-author:
-  - name: The Big Picture RT
-    url: 'https://www.youtube.com/user/TheBigPictureRT'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - duration
   - views
@@ -21,7 +15,13 @@ keywords:
   - wolff
   - hulu
 description: "Alex Lawson, Social Security Works & Sarah Badawi, Progressive Change Campaign Committee (PCCC) join Thom. Plus Special Panel Guest - Patty Lovera, Food & Water Watch. The Department of Justice is launching an investigation into the Dole Food company - one of the world's largest processors of fresh produce."
-inLanguage: en
+datePublished: '2016-05-03T19:30:37.465Z'
+dateModified: '2016-05-03T19:27:29.356Z'
+author:
+  - name: The Big Picture RT
+    url: 'https://www.youtube.com/user/TheBigPictureRT'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=wJYQQu97XHM&feature=applinks'
     type: ios
@@ -59,16 +59,17 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=wJYQQu97XHM&feature=youtu.be'
 title: When Corporations Kill - Progressive Roundtable
-datePublished: '2016-05-03T19:27:21.472Z'
-dateModified: '2016-05-03T19:26:40.215Z'
-starred: false
 sourcePath: _posts/2016-05-03-when-corporations-kill-progressive-roundtable.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
+url: when-corporations-kill-progressive-roundtable/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
