@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 18:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 18:16:14 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guarding Against Chernobyl's Radioactive Forest Fires]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hungary to Hold EU Migrant Quota Referendum by October]]></title>
+            <description><![CDATA[<article><h1>Hungary to Hold EU Migrant Quota Referendum by October</h1><p>Hungary will hold a referendum in September or early October on whether to accept any future European Union quota system for resettling migrants, the prime minister's office said on Tuesday. Prime Minister Viktor Orban has taken an increasingly anti-immigrant stance since the migration crisis escalated last year and opposes a plan, agreed by a majority of EU governments in September, to redistribute 160,000 migrants around the bloc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8054f3490740abcab7489371ccd8972649bf5d02.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/hungary-to-hold-eu-migrant-quota-referendum-by-october/3313535.html</link>
+            <guid isPermaLink="false">b55ab658-34a9-4688-9cdb-43fc14fa8d5d</guid>
+            <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New EU Asylum Rules Could Boost Rightists]]></title>
             <description><![CDATA[<article><h1>New EU Asylum Rules Could Boost Rightists</h1><p>Struggling to cope with the largest migration crisis in recent history, the European Commission is due to release details of its plan to overhaul the EU asylum system Wednesday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6e4979c361d71c5b26b4cf11c564be932d250a6.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/new-eu-asylum-rules-coud-boost-rightists/3313577.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>RFE/RL Azerbaijani Contributor Awarded UN Press Freedom Honor</h1><p>The mother of imprisoned Azerbaijani journalist Khadija Ismayilova has accepted the 2016 UNESCO/Guillermo Cano World Press Freedom Prize on her daughter's behalf. "Humanity suffers when journalists are silenced.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ede9e42bf1bf2af300ccf70dfb13c40f250b05a1.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/khadija-ismayilova-un-press-freedom-honor-amanpour/27713928.html</link>
             <guid isPermaLink="false">6415927a-247e-407a-bbbc-62f3d38eb4f3</guid>
-            <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Investigating Money And Power, Prokhorov's RBC Seen In Firing Line]]></title>
-            <description><![CDATA[<article><h1>Investigating Money And Power, Prokhorov's RBC Seen In Firing Line</h1><p>MOSCOW -- Just a few years ago, Russian media group RBC had its own reputation to worry about. It had acknowledged for taking payments to publish erroneous reports and hidden advertising, known locally as dzhinsa, in its coverage of politics and business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602021e1dd82f1a7615f1f9f1a24f5fdf22547a8.jpg"></article>]]></description>
-            <link>http://www.rferl.org/content/russia-rbc-media-prokhorov-under-pressure/27713417.html</link>
-            <guid isPermaLink="false">747da598-086f-4544-adce-bcdb5cf3d972</guid>
             <pubDate>Tue, 03 May 2016 18:15:05 GMT</pubDate>
         </item>
     </channel>
