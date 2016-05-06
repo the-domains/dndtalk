@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 16:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:54:33 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beijing Warns Critics Over South China Sea Dispute]]></title>
+            <description><![CDATA[<article><h1>Beijing Warns Critics Over South China Sea Dispute</h1><p>As China awaits an international arbitration ruling over its claims to almost all of the South China Sea, Beijing issued a warning Friday to its critics, stating that the more they challenge its position regarding disputed territories in one of the world's busiest waterways, the more it will push back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b0af93c0e2e311e7fada56f042e92190ce52ebd.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/beijing-warns-critics-over-south-china-sea-dispute/3318147.html</link>
+            <guid isPermaLink="false">3a91f5b9-8c5a-4857-80e4-e733697566cd</guid>
+            <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Over 60 Afghan Hostages Freed From Taliban Prison]]></title>
             <description><![CDATA[<article><h1>Over 60 Afghan Hostages Freed From Taliban Prison</h1><p>Afghan army commandos, with the support of the international military coalition, conducted an overnight raid and freed more than 60 prisoners from a Taliban-run detention center in southern Afghanistan, officials said Friday. A statement from NATO's Resolute Support mission in Kabul said the illegal prison was located in the district of Now Zad in Helmand province.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7792ec9ef3d4d2ff5322ebfdd5170439acaa8def.png"></article>]]></description>
             <link>http://www.voanews.com/content/over-60-afghan-hostages-freed-from-taliban-prison/3318239.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Syrian Regime Accused of Bombing Refugee Camp, Killing 30</h1><p>Only hours after Russian and Syrian officials confirmed a cease-fire had been extended to Aleppo, opposition politicians said warplanes - either Syrian government or Russian - carried out a deadly airstrike 30 kilometers from Syria's one-time commercial capital on a refugee camp close to the border with Turkey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c55594040303f01110fd8db474c0d3523d7134ce.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/syrian-regime-accused-bombing-refugee-camp/3317411.html</link>
             <guid isPermaLink="false">20e971ac-ab08-4905-b183-bd282294153f</guid>
-            <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysts: Russia Cynical on Syria, Goal Is International Prestige]]></title>
-            <description><![CDATA[<article><h1>Analysts: Russia Cynical on Syria, Goal Is International Prestige</h1><p>As the United States and Russia struggle to cement a cease-fire in Syria that includes the embattled city of Aleppo, the Syrian military under President Bashar al-Assad indicated it would be a temporary extension. Syrian rebels accuse Russia of using artillery to support the two-week assault.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28afd70a43c41e323c7c2fba245768195800ae7b.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/russia-cynical-on-syria-international-prestige/3316442.html</link>
-            <guid isPermaLink="false">99a738f9-241d-4df5-a875-31f43ea95e35</guid>
             <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
         </item>
     </channel>
