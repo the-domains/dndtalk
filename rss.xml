@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 16:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:53:45 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US Government Bans e-Cigarette Sales to Minors]]></title>
-            <description><![CDATA[<article><h1>US Government Bans e-Cigarette Sales to Minors</h1><p>The U.S. Food and Drug Administration is banning the sale of e-cigarettes and some other tobacco products to people under age 18 for the first time, a move designed to prevent a new generation from being addicted to nicotine. In addition to e-cigarettes, the FDA announced a ban on the sale of pipe tobacco, hookah tobacco and cigars to minors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cb8d0ce77203ac6a32f0b639734781cea97768b.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/us-ecigarettes-minors-sale-ban/3317007.html</link>
-            <guid isPermaLink="false">7fdc3237-537f-4a73-8bba-7f89676c6082</guid>
-            <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SpaceX Successfully Lands Rocket]]></title>
             <description><![CDATA[<article><h1>SpaceX Successfully Lands Rocket</h1><p>SpaceX has once again successfully landed a booster rocket on an ocean platform. The feat was accomplished after the rocket deployed a Japanese communication satellite into orbit. The unmanned Falcon 9 rocket landed early Friday on a platform in the Atlantic Ocean off the southeastern U.S. coast of Florida.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e9f3adfa379e14080caa95f0f6479c0fbcee84c.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/spacex-successfully-lands-rocket/3318077.html</link>
@@ -75,6 +68,13 @@
             <link>http://www.rferl.org/content/kazakhstan-nazarbaev-delays-land-privatization/27717597.html</link>
             <guid isPermaLink="false">6892601c-45b6-4bcf-bb9a-6012e3e0c279</guid>
             <pubDate>Thu, 05 May 2016 17:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Armenian Draft Bill Would Recognize Nagorno-Karabakh]]></title>
+            <description><![CDATA[<article><h1>Armenian Draft Bill Would Recognize Nagorno-Karabakh</h1><p>Armenia's government has approved a bill drafted by opposition lawmakers that calls for Yerevan to recognize the independence of Azerbaijan's breakaway Nagorno-Karabakh region. The draft bill was sent to lawmakers on May 5 for debate. In the past, the Armenian government has blocked previous proposals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24f90746c4fdce0efe6f8cc8f35a2f5dd0a71191.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/armenia-draft-recognizing-nagorno-karabakh/27717385.html</link>
+            <guid isPermaLink="false">20f45dbd-c944-4e4c-9c8d-e5e1eee38b93</guid>
+            <pubDate>Thu, 05 May 2016 17:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
