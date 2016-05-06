@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 16:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:54:26 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will New Russian Force Be 'Putin's Personal Army'?]]></title>
-            <description><![CDATA[<article><h1>Will New Russian Force Be 'Putin's Personal Army'?</h1><p>While Russian lawmakers are busy changing the country's election laws in preparation for parliamentary elections this year, the lower house of parliament is due this month to consider whether President Vladimir Putin's new National Guard should be allowed to shoot Russian citizens without warning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/479052c19b8c919e0cbdc001f881d7aff60803be.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/will-russian-national-guard-putin-personal-army/3317392.html</link>
-            <guid isPermaLink="false">9a2de0b8-8cb3-4f2e-90fa-0993ba77147a</guid>
-            <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Britain's Muslims See London Mayor Race as Victory]]></title>
             <description><![CDATA[<article><h1>Britain's Muslims See London Mayor Race as Victory</h1><p>London could be getting its first Muslim mayor Thursday as Sadiq Khan, a 45-year-old former government minister and son of Pakistani immigrants, appears headed for victory in what British Muslims see as a turning point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a9f13a939c5c682e19e5821cff2ed452ea43f03.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/london-mayoral-elections-muslims/3317162.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Greek Workers Embark on Weekend Strike Over Austerity Measures</h1><p>Workers in Greece walked off their jobs Friday in protest of new tax and pension reforms being considered by the government that workers say will cut deeply into their incomes. The government's austerity measures are part of a multi-billion-dollar international bailout agreement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9a4c0cc46f82de3ecdc68aaadd87bdb/noop.jpg?input=http%3A%2F%2Fgdb.voanews.com%2F33EE1C4C-D61E-4920-BD83-8BAE9D492B50_cx0_cy7_cw0_mw1024_mh1024_s.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/greek-workers-strike-over-austerity-measures/3318074.html</link>
             <guid isPermaLink="false">d25ed10f-9548-4d01-9503-50b2b040aee2</guid>
+            <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX Successfully Lands Rocket]]></title>
+            <description><![CDATA[<article><h1>SpaceX Successfully Lands Rocket</h1><p>SpaceX has once again successfully landed a booster rocket on an ocean platform. The feat was accomplished after the rocket deployed a Japanese communication satellite into orbit. The unmanned Falcon 9 rocket landed early Friday on a platform in the Atlantic Ocean off the southeastern U.S. coast of Florida.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e9f3adfa379e14080caa95f0f6479c0fbcee84c.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/spacex-successfully-lands-rocket/3318077.html</link>
+            <guid isPermaLink="false">2d732744-0b3f-4712-b681-7ad1b8066384</guid>
             <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
         </item>
     </channel>
