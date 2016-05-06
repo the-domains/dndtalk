@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 16:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:53:54 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britain's Muslims See London Mayor Race as Victory]]></title>
-            <description><![CDATA[<article><h1>Britain's Muslims See London Mayor Race as Victory</h1><p>London could be getting its first Muslim mayor Thursday as Sadiq Khan, a 45-year-old former government minister and son of Pakistani immigrants, appears headed for victory in what British Muslims see as a turning point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a9f13a939c5c682e19e5821cff2ed452ea43f03.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/london-mayoral-elections-muslims/3317162.html</link>
-            <guid isPermaLink="false">b46a380e-4d66-4357-876e-7970f7d60365</guid>
-            <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US Government Bans e-Cigarette Sales to Minors]]></title>
             <description><![CDATA[<article><h1>US Government Bans e-Cigarette Sales to Minors</h1><p>The U.S. Food and Drug Administration is banning the sale of e-cigarettes and some other tobacco products to people under age 18 for the first time, a move designed to prevent a new generation from being addicted to nicotine. In addition to e-cigarettes, the FDA announced a ban on the sale of pipe tobacco, hookah tobacco and cigars to minors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cb8d0ce77203ac6a32f0b639734781cea97768b.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/us-ecigarettes-minors-sale-ban/3317007.html</link>
@@ -75,6 +68,13 @@
             <link>http://www.voanews.com/content/spacex-successfully-lands-rocket/3318077.html</link>
             <guid isPermaLink="false">2d732744-0b3f-4712-b681-7ad1b8066384</guid>
             <pubDate>Fri, 06 May 2016 16:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Banja Luka, A Mosque Rises From The Rubble]]></title>
+            <description><![CDATA[<article><h1>In Banja Luka, A Mosque Rises From The Rubble</h1><p>In the middle of the night on May 7, 1993, the centuries-old Ferhadija Mosque in Bosnia-Herzegovina's city of Banja Luka was blown up. A few minutes later, there was another explosion, this time in the city's second mosque, Arnautija. The two buildings were completely destroyed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87ccbd3b456ea881a94cf96a582d14a4d69aa5b7.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/balkans-without-borders-banja-luka-mosque-reopened/27717823.html</link>
+            <guid isPermaLink="false">7815f04d-a18e-4292-ac76-dfd0b89764d8</guid>
+            <pubDate>Thu, 05 May 2016 17:13:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
