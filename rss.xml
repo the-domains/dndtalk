@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 17:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 17:28:34 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Monitor: Satellite Images Show N. Korea Nuclear Test Could Be Near]]></title>
+            <description><![CDATA[<article><h1>Monitor: Satellite Images Show N. Korea Nuclear Test Could Be Near</h1><p>A U.S. monitoring group said Friday that North Korea might be preparing to carry out a nuclear test as the communist country holds its first ruling party congress in 36 years. The website 38 North, run by Johns Hopkins University, said satellite images taken over North Korea's nuclear test site show vehicle movement at a command center, where there is often no activity "except during preparations for a test."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b645b2198b3790ef43ac6df73482acbe6add02ed.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/north-korean-leader-hails-nuclear-success-at-party-congress/3319084.html</link>
+            <guid isPermaLink="false">534d0951-4982-45c6-9f7e-b3f733a5d34a</guid>
+            <pubDate>Sat, 07 May 2016 17:27:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Massive Canadian Wildfire Could Double in Size]]></title>
             <description><![CDATA[<article><h1>Massive Canadian Wildfire Could Double in Size</h1><p>A forest fire that forced the evacuation of tens of thousands from a Canadian community has the potential to double in size and might not be extinguished for a "very long time." Chad Morrison, senior manager of wildfire prevention at the Province of Alberta Agriculture and Forestry Division, said forest fires were continuing to burn out of control in the parched region, and could double in size.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/533de0b57b445437ab4c0c4a50f102f52fdada71.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/massive-canadian-wildfire-could-double-in-size/3319788.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Brazil Scientists Seek to Unravel Mystery of Zika Twins</h1><p>Scientists struggling to unravel the mysteries of a Zika epidemic in Brazil hope they can learn from cases of women giving birth to twins in which only one child is afflicted by the microcephaly birth defect associated with the virus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440ee0531d743b3722f9b3c8074afdfbc36671f6.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/brazil-scientists-seek-to-unravel-mystery-of-zika-twins/3319518.html</link>
             <guid isPermaLink="false">6d4b6f86-3265-403d-8bcc-a566683cf24e</guid>
-            <pubDate>Sat, 07 May 2016 17:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alabama Chief Justice Suspended Over Gay Marriage Stance]]></title>
-            <description><![CDATA[<article><h1>Alabama Chief Justice Suspended Over Gay Marriage Stance</h1><p>Roy Moore, chief justice of the Alabama state Supreme Court, was suspended for his efforts to block same-sex marriage, counter to a U.S. Supreme Court ruling that effectively legalized same-sex marriage nationwide in 2015. A state judicial oversight commission filed ethics charges against Moore Friday, saying the controversial judge abused the power of his office.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1bcf73ecc216c4812107455302407ff5fc2b730.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/alabama-chief-justice-suspended-over-gay-marriage-stance/3319596.html</link>
-            <guid isPermaLink="false">b24f1b92-a45b-41b7-bf33-ccc9746183bb</guid>
             <pubDate>Sat, 07 May 2016 17:27:36 GMT</pubDate>
         </item>
     </channel>
