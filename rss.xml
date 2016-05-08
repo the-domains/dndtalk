@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 15:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 15:34:35 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dozens Killed After Buses Collide With Fuel Tanker In Afghanistan]]></title>
-            <description><![CDATA[<article><h1>Dozens Killed After Buses Collide With Fuel Tanker In Afghanistan</h1><p>Officials say at least 50 people were killed when two passenger buses and a fuel tanker collided on a major highway in eastern Afghanistan. The collision happened in the morning on May 8 in the Muqur district of Ghazni Province, on the main highway linking the capital, Kabul, to the southern city of Kandahar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3f812108dc3741ae8296fdc9aadbc3b224a5428.gif"></article>]]></description>
-            <link>http://www.rferl.org/content/deaths-buses-colide-fuel-tanker-afghanistan/27722394.html</link>
-            <guid isPermaLink="false">ea0f31ce-b8ae-4a4e-95f2-5a14790f8af0</guid>
-            <pubDate>Sun, 08 May 2016 15:34:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Japanese Leader Hails 'Breakthrough' In Talks With Putin On Kuriles]]></title>
             <description><![CDATA[<article><h1>Japanese Leader Hails 'Breakthrough' In Talks With Putin On Kuriles</h1><p>Japanese Prime Minister Shinzo Abe believes his three-hour talk with Russian President Vladimir Putin achieved a "breakthrough" in solving their dispute over the Kurile Islands. The Japanese Foreign Ministry said the two leaders agreed to deal with the issue personally, and "cast aside old thinking" about the decades-old dispute over the islands that Russia seized at the end of World War II but Japan wants back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a2f79193b03b036fafac316aa08e3b074bc7b89.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/japanese-leader-abe-hails-breakthrough-talks-with-putin-kiril-islands-sochi/27720908.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>French President Hollande Leads WWII Commemorations in Paris</h1><p>French President Francois Hollande on Sunday led low-key commemorations in Paris marking the end of World War II in Europe. Under a basking sun, Hollande began the proceedings by laying a wreath at the statue of Charles de Gaulle, the former president and leader of the French WWII government-in-exile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8247be9eb1e062ff0e3a81089a486342d83f82c9.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/french-president-hollande-leads-wwii-commemorations-in-paris/3320449.html</link>
             <guid isPermaLink="false">7c780470-7386-49c9-a731-b88e50266371</guid>
+            <pubDate>Sun, 08 May 2016 15:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report Calls for Sustained Funding for Global Health Emergencies]]></title>
+            <description><![CDATA[<article><h1>Report Calls for Sustained Funding for Global Health Emergencies</h1><p>The United States remains by far the most important source of funds for medical research and development for scores of diseases well-known to the developing world. According to the latest available data from the independent research group Policy Cures, global donors contributed over $2 billion in public funding for research into what the medical community calls neglected diseases.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e557b896f4f0ebf3d351f46d04075c01d7c1288.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/report-calls-for-sustained-funding-global-health-emergencies/3319988.html</link>
+            <guid isPermaLink="false">867125e8-39ff-40db-9a31-2a844af077d2</guid>
             <pubDate>Sun, 08 May 2016 15:22:44 GMT</pubDate>
         </item>
     </channel>
