@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 15:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 15:14:07 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Somaliland Circus: Twisting, Tumbling, Teaching]]></title>
-            <description><![CDATA[<article><h1>Somaliland Circus: Twisting, Tumbling, Teaching</h1><p>They perform feats that can be nerve-wracking simply to watch - building human pyramids high into the air, leap-frogging over one another, and tumbling down long mats at high speed. But it's all in a day's work, or practice, for young Somaliland performers like 14-year-old Ahmed Yassin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/660bc0938f8764ddea519d80ee38df21a9da6d72.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/twisting-tumbling-teaching-somaliland-circus/3320524.html</link>
-            <guid isPermaLink="false">e0f23aee-beb0-436e-8936-fda86d0e9f3b</guid>
-            <pubDate>Sun, 08 May 2016 15:13:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Djibouti President Sworn in for Fourth Term in Office]]></title>
             <description><![CDATA[<article><h1>Djibouti President Sworn in for Fourth Term in Office</h1><p>Djibouti's President Ismail Omar Guelleh was sworn in for a fourth term in office Sunday in a ceremony attended by several regional heads of states and dignitaries. Guelleh took the oath of office at his presidential residence in the capital, Djibouti City.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2bd32aa08ef1d302233f9004b12ebc4430ca18e.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/djibouti-president-sworn-in-for-fourth-term/3320568.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Afghanistan Executes 6 Terror Convicts</h1><p>Authorities in Afghanistan hanged six men on death row who were convicted of "grave crimes against civilians and public security." Taliban officials swiftly confirmed those executed belonged to the insurgent group and vowed to "take immediate, bloody revenge." The executions of the terrorists took place in a Kabul prison Sunday on the orders of President Ashraf Ghani, his office confirmed to VOA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16cb67f79cbef520fa6e82061c65d6b20ef5b656.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/afghanistan-executes-six-terror-convicts/3320419.html</link>
             <guid isPermaLink="false">c6280482-9a01-4dae-bb62-770c5a3a8dd2</guid>
+            <pubDate>Sun, 08 May 2016 15:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen Peace Talks Struggle As Air Strikes Shake Truce]]></title>
+            <description><![CDATA[<article><h1>Yemen Peace Talks Struggle As Air Strikes Shake Truce</h1><p>Yemen's Houthi movement accused a Saudi-led coalition of launching air strikes that killed seven people on Sunday, shaking a truce that has largely held through more than two weeks of U.N.-backed peace talks in Kuwait. The Iran-allied Houthis and Yemen's Saudi-backed exiled government are trying to broker a peace through the talks in Kuwait and ease a humanitarian crisis in the Arabian Peninsula's poorest country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c5cd3bc4ca8411400f17c2b06eed1a63f1131ab.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/yemen-peace-talks-struggle-as-air-strikes-shake-truce/3320530.html</link>
+            <guid isPermaLink="false">78a77731-e243-4112-816c-020f985700c7</guid>
             <pubDate>Sun, 08 May 2016 15:13:07 GMT</pubDate>
         </item>
     </channel>
