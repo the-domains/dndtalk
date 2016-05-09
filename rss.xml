@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 17:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 17:24:29 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kerry Heads to Europe for Anti-Corruption Summit]]></title>
-            <description><![CDATA[<article><h1>Kerry Heads to Europe for Anti-Corruption Summit</h1><p>U.S. Secretary of State John Kerry begins a four-day diplomatic mission to Europe Monday where he will meet with officials from several countries and participate in an anti-corruption summit. The anti-corruption gathering Thursday is being hosted by British Prime Minister David Cameron, and will be attended by heads of state from Afghanistan, Colombia and Nigeria, among others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30dc387fb3b782e09a2bc817ee7cf7db50c4d760.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/kerry-heads-to-europe-for-anti-corruption-summit/3321334.html</link>
-            <guid isPermaLink="false">a70cc642-b46b-4583-8687-cda3eaeb79d8</guid>
-            <pubDate>Mon, 09 May 2016 17:24:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cameron Warns of Less Stable Europe if Britain Leaves EU]]></title>
             <description><![CDATA[<article><h1>Cameron Warns of Less Stable Europe if Britain Leaves EU</h1><p>British Prime Minister David Cameron warned during a speech Monday that Britain would raise the risk of war if it chooses to leave the European Union in a referendum vote scheduled for later this year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f77403bbe0b873dfe2760fbb9bc845ce9942c17d.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/cameron-warns-of-less-stable-europe-if-britain-leaves-eu/3321379.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Dozens Killed After Buses Collide With Fuel Tanker In Afghanistan</h1><p>Officials say at least 50 people were killed when two passenger buses and a fuel tanker collided on a major highway in eastern Afghanistan. The collision happened in the morning on May 8 in the Muqur district of Ghazni Province, on the main highway linking the capital, Kabul, to the southern city of Kandahar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3f812108dc3741ae8296fdc9aadbc3b224a5428.gif"></article>]]></description>
             <link>http://www.rferl.org/content/deaths-buses-colide-fuel-tanker-afghanistan/27722394.html</link>
             <guid isPermaLink="false">ea0f31ce-b8ae-4a4e-95f2-5a14790f8af0</guid>
+            <pubDate>Sun, 08 May 2016 15:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Leader Hails 'Breakthrough' In Talks With Putin On Kuriles]]></title>
+            <description><![CDATA[<article><h1>Japanese Leader Hails 'Breakthrough' In Talks With Putin On Kuriles</h1><p>Japanese Prime Minister Shinzo Abe believes his three-hour talk with Russian President Vladimir Putin achieved a "breakthrough" in solving their dispute over the Kurile Islands. The Japanese Foreign Ministry said the two leaders agreed to deal with the issue personally, and "cast aside old thinking" about the decades-old dispute over the islands that Russia seized at the end of World War II but Japan wants back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a2f79193b03b036fafac316aa08e3b074bc7b89.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/japanese-leader-abe-hails-breakthrough-talks-with-putin-kiril-islands-sochi/27720908.html</link>
+            <guid isPermaLink="false">c94c669f-79e6-46c0-b487-71091f28f380</guid>
             <pubDate>Sun, 08 May 2016 15:34:05 GMT</pubDate>
         </item>
     </channel>
