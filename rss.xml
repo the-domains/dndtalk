@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 17:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 17:27:06 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why Do We Celebrate The Wrong Heroes?]]></title>
+            <description><![CDATA[<article><h1>Why Do We Celebrate The Wrong Heroes?</h1><p>On September 29, 1991, Rear Admiral Vladimir Barovic received an order from his Yugoslav Army superiors to start bombing the Croatian coast. It was an order he could not obey, and yet he felt duty bound to do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f749b4c647b86fa8233951cbc26a058801d19eb8.jpg"></article>]]></description>
+            <link>http://www.rferl.org/content/balkans-why-do-we-celebrate-the-wrong-heroes/27724361.html</link>
+            <guid isPermaLink="false">8be30214-d1ca-4bb4-b89e-7d62faaa57f9</guid>
+            <pubDate>Mon, 09 May 2016 17:26:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blood Sport: The Rise Of Russia's Gangster Athletes]]></title>
             <description><![CDATA[<article><h1>Blood Sport: The Rise Of Russia's Gangster Athletes</h1><p>The heavies arrived at the pop-up marketplace on a frigid morning packing pistols, knives, and steel pipes. One strapping young man reportedly brandished a submachine gun. A day earlier, a group of thugs had pummeled a beefy ex-boxer nicknamed Broiler in a dispute over two leather coats sold by a merchant paying him protection money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fb6e7d5402f059f06b0639cbe00da758dea4578.jpg"></article>]]></description>
             <link>http://www.rferl.org/content/blood-sports-rise-of-russia-gangster-athletes/27722386.html</link>
@@ -68,13 +75,6 @@
             <link>http://www.rferl.org/content/deaths-buses-colide-fuel-tanker-afghanistan/27722394.html</link>
             <guid isPermaLink="false">f8b41039-0bd2-4cc8-bfb5-b433c3fffbb5</guid>
             <pubDate>Mon, 09 May 2016 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malawi Aims to Clear Beggars Off City Streets]]></title>
-            <description><![CDATA[<article><h1>Malawi Aims to Clear Beggars Off City Streets</h1><p>Malawi's government has called for the arrest of street beggars and parents of all children seen begging on the street. The government said most of the people on the street are begging as a profession, not a last resort. But the edict has sparked debate and police are yet to crack down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfdcf5cd0f071e102da45f8bcb07e00af6f95fb5.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/malawi-aims-to-clear-beggars-off-city-streets/3321660.html</link>
-            <guid isPermaLink="false">593b4b8f-39bf-40a4-829d-f2e3e39c1caf</guid>
-            <pubDate>Mon, 09 May 2016 17:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
