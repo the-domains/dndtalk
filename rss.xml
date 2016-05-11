@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:22:46 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Report: Nearly 41 Million People Internally Displaced Globally]]></title>
+            <description><![CDATA[<article><h1>Report: Nearly 41 Million People Internally Displaced Globally</h1><p>A new report says the number of people throughout the world who were uprooted from their homes due to conflicts and natural disasters stood at a record 40.8 million last year, the highest figure ever recorded. The Norwegian Refugee Council's Internal Displacement Monitoring Center (IDMC) reported Wednesday that 27.8 million people were internally displaced just in 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03aac35655cf4a06b5015c43c5850c90bfae0daa.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/report-finds-nearly-41-million-people-displaced-globally/3325791.html</link>
+            <guid isPermaLink="false">f8c261d9-9835-4602-a4d4-3e4eafe4714b</guid>
+            <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rescued Son of Ex-Pakistani Leader Returns Home From Kabul]]></title>
             <description><![CDATA[<article><h1>Rescued Son of Ex-Pakistani Leader Returns Home From Kabul</h1><p>The son of a former prime minister of Pakistan returned from Afghanistan Wednesday a day after he was rescued from al-Qaida-linked kidnappers in a military operation. A special Pakistani aircraft brought Ali Haider Gilani back from Kabul and landed at the airport in the eastern city of Lahore where family members received him amid tight security.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/262ea87a2e6d3bb2ae76394f5a6516dac72116ab.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/rescued-son-of-ex-pakistani-leader-returns-home-from-kabul/3324672.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Car Bomb Explodes in Baghdad's Sadr City</h1><p>A car bomb ripped through a market in a Shi'ite area of north Baghdad Wednesday, killing at least 16 people. The explosion struck the Sadr city market during the morning rush. Hospital and security officials fear the death toll may rise. At least 40 people were wounded in the attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eac42aea7f7d2148d94df373d3874d86124c4594.png"></article>]]></description>
             <link>http://www.voanews.com/content/car-bomb-explodes-baghdad-sadr-city/3324673.html</link>
             <guid isPermaLink="false">6e4dfef2-cf96-42af-9604-6a59cacca980</guid>
-            <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turks Tell VOA of Struggles Under Crisis]]></title>
-            <description><![CDATA[<article><h1>Turks Tell VOA of Struggles Under Crisis</h1><p>Turks for decades lived virtually untouched by the turmoil in the Middle East and the upheaval in the Muslim world, with the nation's internal challenge centered on curbing Kurdish insurgents. In the last two years, however, the fallout from Syria's civil war and the rise of Islamic State have caused serious problems for Turkey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e79b89383b1f9dac6994c16eb2c16fff7cf27.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/turks-tell-voa-struggles-crisis-syria/3323759.html</link>
-            <guid isPermaLink="false">4e8be9fb-e9f5-4f3c-9ff4-63a93748626c</guid>
             <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
         </item>
     </channel>
