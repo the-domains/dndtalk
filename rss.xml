@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:22:50 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amnesty: Over 140 Dead in Nigeria Military Detention]]></title>
-            <description><![CDATA[<article><h1>Amnesty: Over 140 Dead in Nigeria Military Detention</h1><p>Nearly 150 people, including 11 children under the age of six, have died in military detention in Nigeria's northeast this year, according to a new report from Amnesty International. Amnesty said the children, including four babies, were among 149 reported deaths of prisoners held at Giwa barracks, a notorious detention facility in the city of Maiduguri that rights groups have criticized in the past.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff869d8b0d0b90ca0f73f5c1e17b89f59a035f93.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/amnesty-over-140-dead-in-nigeria-military-detention/3324731.html</link>
-            <guid isPermaLink="false">5d502e14-07b5-4b04-b8bb-79b19f0790bb</guid>
-            <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DRC Court: Kabila's Mandate Can Be Extended If No Vote]]></title>
             <description><![CDATA[<article><h1>DRC Court: Kabila's Mandate Can Be Extended If No Vote</h1><p>A Democratic Republic of Congo court has ruled President Joseph Kabila can remain in office if no election takes place before his mandate expires at the end of this year. Congo's Constitutional Court handed down the ruling Wednesday, at the request of the ruling party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e488da7f1057e63371a4be92472966bf2ac00e42.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/congo-democratic-republic-kabila/3325872.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Report: Nearly 41 Million People Internally Displaced Globally</h1><p>A new report says the number of people throughout the world who were uprooted from their homes due to conflicts and natural disasters stood at a record 40.8 million last year, the highest figure ever recorded. The Norwegian Refugee Council's Internal Displacement Monitoring Center (IDMC) reported Wednesday that 27.8 million people were internally displaced just in 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03aac35655cf4a06b5015c43c5850c90bfae0daa.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/report-finds-nearly-41-million-people-displaced-globally/3325791.html</link>
             <guid isPermaLink="false">f8c261d9-9835-4602-a4d4-3e4eafe4714b</guid>
+            <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescued Son of Ex-Pakistani Leader Returns Home From Kabul]]></title>
+            <description><![CDATA[<article><h1>Rescued Son of Ex-Pakistani Leader Returns Home From Kabul</h1><p>The son of a former prime minister of Pakistan returned from Afghanistan Wednesday a day after he was rescued from al-Qaida-linked kidnappers in a military operation. A special Pakistani aircraft brought Ali Haider Gilani back from Kabul and landed at the airport in the eastern city of Lahore where family members received him amid tight security.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/262ea87a2e6d3bb2ae76394f5a6516dac72116ab.jpg"></article>]]></description>
+            <link>http://www.voanews.com/content/rescued-son-of-ex-pakistani-leader-returns-home-from-kabul/3324672.html</link>
+            <guid isPermaLink="false">4fe8559d-51f8-4e1b-993e-980630311d45</guid>
             <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
         </item>
     </channel>
