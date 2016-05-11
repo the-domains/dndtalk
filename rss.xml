@@ -4,7 +4,7 @@
         <description><![CDATA[News Headline]]></description>
         <link>http://newsheadline.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:22:40 GMT</lastBuildDate>
         <atom:link href="http://newsheadline.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[When Corporations Kill - Progressive Roundtable]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Thu, 21 Apr 2016 19:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Car Bomb Explodes in Baghdad's Sadr City]]></title>
+            <description><![CDATA[<article><h1>Car Bomb Explodes in Baghdad's Sadr City</h1><p>A car bomb ripped through a market in a Shi'ite area of north Baghdad Wednesday, killing at least 16 people. The explosion struck the Sadr city market during the morning rush. Hospital and security officials fear the death toll may rise. At least 40 people were wounded in the attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eac42aea7f7d2148d94df373d3874d86124c4594.png"></article>]]></description>
+            <link>http://www.voanews.com/content/car-bomb-explodes-baghdad-sadr-city/3324673.html</link>
+            <guid isPermaLink="false">6e4dfef2-cf96-42af-9604-6a59cacca980</guid>
+            <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turks Tell VOA of Struggles Under Crisis]]></title>
             <description><![CDATA[<article><h1>Turks Tell VOA of Struggles Under Crisis</h1><p>Turks for decades lived virtually untouched by the turmoil in the Middle East and the upheaval in the Muslim world, with the nation's internal challenge centered on curbing Kurdish insurgents. In the last two years, however, the fallout from Syria's civil war and the rise of Islamic State have caused serious problems for Turkey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126e79b89383b1f9dac6994c16eb2c16fff7cf27.jpg"></article>]]></description>
             <link>http://www.voanews.com/content/turks-tell-voa-struggles-crisis-syria/3323759.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Vietnam Human Rights Day</h1><p>Every year the United States marks May 11 as Vietnam Human Rights Day to highlight our nation's support for promoting and protecting basic freedoms in that Southeast Asian nation. The U.S. and Vietnam recently concluded their 20th annual Human Rights Dialogue in Washington.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/020d1e17e798ebdffaa15612995ab57387d1392c.jpg"></article>]]></description>
             <link>http://editorials.voa.gov/content/vietnam-human-rights-day/3323837.html</link>
             <guid isPermaLink="false">30064fdf-8f1c-400a-ac7f-0ffd8c5812a5</guid>
-            <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canadian Professor: Olympics Should Be Postponed Due to Zika]]></title>
-            <description><![CDATA[<article><h1>Canadian Professor: Olympics Should Be Postponed Due to Zika</h1><p>With the opening ceremony in Rio de Janeiro less than three months away, a Canadian professor has called for the Olympics to be postponed or moved because of the Zika outbreak, warning the influx of visitors to Brazil will result in the avoidable birth of malformed babies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e97768dc55ce1591c7baeb094a590501a078157.jpg"></article>]]></description>
-            <link>http://www.voanews.com/content/brazil-olympics-zika/3325947.html</link>
-            <guid isPermaLink="false">80a12ed7-33d3-4805-9f5b-c00cd9dca54b</guid>
             <pubDate>Wed, 11 May 2016 18:22:25 GMT</pubDate>
         </item>
     </channel>
